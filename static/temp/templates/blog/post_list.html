@@ -1,0 +1,39 @@
+{% extends "blog/base_blog.html" %}
+{% load comments %}
+
+{% block title %}Post archive{% endblock %}
+{% block body_class %}{{ block.super }} post_list{% endblock %}
+<div id="container">
+
+  {% block slider %}{% endblock %}
+  <div id="content" class="hfeed" role="main">
+
+
+{% block content %}
+  <div class="list post_list">
+    {% for post in object_list %}
+    <div class="entry">
+      <h2 class="entry-title"><a href="{{ post.get_absolute_url }}" title="View this post">{{ post.title }}</a></h2>
+      <p class="entry-info">{{ post.publish|date:"Y F d" }}</p>
+      <p class="entry-body">{{ post.body|safe|truncatewords:250  }}</p> 
+	<p class="entry-footer"><a id="{{ post.slug }}" href="{{ post.get_absolute_url }}">comment</a>
+		 | {% get_comment_count for post as comments %} {{ comments }} comment{{ comments|pluralize }} so far.</p>
+					
+    </div>
+    {% endfor %}
+  </div>
+  
+  {% if is_paginated %}
+  <p class="pagination">
+    {% if has_next %}
+    <a class="older" href="?page={{ next }}" title="View older posts" >Older</a>
+    {% endif %}
+    {% if has_next and has_previous %} | {% endif %}
+    {% if has_previous %}
+    <a class="newer" href="?page={{ previous }}" title="View newer posts">Newer</a>
+    {% endif %}
+  </p>
+  {% endif %}
+{% endblock %}
+</div>
+</div>

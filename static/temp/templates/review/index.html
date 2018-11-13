@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Rev Matt Reviews{% endblock %}
+
+{% block content %}
+<div class="reviewsleft">
+	<div class="post_list">
+{% for review in object_list %}
+
+	<div class="post">
+    <h3>{{ review.title }} by {{ review.artist }}:  {{ review.rating }} stars</h3> {{ review.date }}<br /><br /> {{ review.body|safe|truncatewords:150 }}<br /> <a href="{{ review.get_absolute_url }}"><br /><br />read the rest of this review</a>
+</div>
+
+
+{% endfor %}
+</div>
+</div>
+<div class="reviewsright">
+	{% load review_tools %}
+	{% artist_list %}
+</div>
+{% endblock %}
+

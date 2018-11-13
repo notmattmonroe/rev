@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}Rev Matt Reviews{% endblock %}
+
+{% block content %}
+{% for review in albums_by_artist_list %}
+<div class="entry">
+    <h3>{{ review.title }} by {{ review.artist }}:  {{ review.rating }} stars</h3> {{ review.date }}<br /><br /> {{ review.body|safe|truncatewords:150 }}<br /> <a href="{{ review.get_absolute_url }}"><br /><br />read the rest of this review</a>
+</div>
+{% endfor %}
+{% endblock %}
+{% block sidebar %}
+<h3>Artists</h3>
+{% load review_tools %}
+{% artist_list %}
+
+{% endblock %}

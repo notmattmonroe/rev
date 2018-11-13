@@ -1,0 +1,50 @@
+body{ height: 100%;background:#cccccc; background-image:url('/static/images/back.png');background-size:100%;background-repeat:repeat-y;font-family:'Old Standard TT',serif;font-size:150%;width:100%;text-align: center;text-shadow: 0 1px 3px rgba(0,0,0,.5);}
+#page_content{padding-top:10px;width:90%;background-image:url('/static/images/blueback.png');background-size:100%;-moz-border-radius:25px;border-radius:25px;}
+#main_content{margin: -60px 30px 50px 30px;background:rgba(209,4,38,0.5);-moz-border-radius:20px;border-radius:20px;padding: 25px;color:white; text-align: left; }
+#main_content h2{font-family:'IM Fell French Canon SC',serif;}
+#main_content a{color:#f6e6ca;}
+img {max-width: 100%;height: auto;}
+.post{ padding-bottom:20px;border-bottom:thick dotted black;}
+.blogfooter{padding-top:50px;border-top:thick dotted black;}
+.search{width:50%;float:left;vertical-align:center;}
+.search input[type=text]{background-color:#f6e6ca;height:20px;padding-left:10px;}
+.search input[type=submit]{background:#f6e6ca;border:0 none;cursor:pointer;-webkit-border-radius:5px;border-radius:5px;height:25px;color:rgb(209,4,38);font-size:90%;}
+.archives{width:50%;float:right;}
+.reviewsleft{width:70%;float:left; }
+.reviewsright{width:30%;float:right;}
+.reviewsright li{list-style-type:none;}
+.site-wrapper {display: table;width: 100%;height: 100%;min-height: 100%;margin-left: 3%;margin-right: 3%;}
+.site-wrapper-inner {display: table-cell;vertical-align: top;}
+.masthead-brand {text-align: center;z-index:-1;}
+.masthead-brand img {max-width:100%;height:auto;}
+/* masthead-nav grid */
+.masthead-nav { background:transparent;text-align:center; width: 100%;} 
+.navcol {float: left;
+  width: 20%;
+}
+.nav a{color:#f6e6ca;}
+.nav ul{list-style:none;position:absolute;left:50%; }
+.nav li{float:left;position:relative; top: -100px; width:20%;z-index:1;font-family:'IM Fell French Canon SC',serif;font-size:250%;} /*ie needs position:relative here*/
+.masthead-nav li a:hover{background:transparent; color: rgba(209,4,38,1);}
+.navleft { position: fixed; left: -325px; float: left; border: thin solid green;}
+.navright { float: right; border: thin solid blue;}
+
+@media screen and (max-width: 1000px) {
+body{ height: 100%;background:#cccccc; background-image:url('/static/images/back.png');background-size:100%;background-repeat:repeat-y;font-family:'Old Standard TT',serif; font-size: 90%; width:100%;text-align: center;text-shadow: 0 1px 3px rgba(0,0,0,.5);}	
+#main_content{margin: -75px 30px 50px 30px;background:rgba(209,4,38,0.5);-moz-border-radius:20px;border-radius:20px;padding: 25px;color:white; text-align: left; }
+#main_content h2{font-family:'IM Fell French Canon SC',serif; font-size: 110%; }
+.masthead-brand {}
+.masthead-brand img { max-width: 50px; max-height: 50px;}
+.masthead-nav {width: 100%; background:transparent;text-align:center; margin-top: 50px;;} 
+.nav ul{list-style:none; font-size: 50%; position: absolute; top: 75px;}
+.nav li{font-family:'IM Fell French Canon SC',serif;font-size:100%;}
+/* fix the reviews page background problem */
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+}

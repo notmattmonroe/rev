@@ -1,0 +1,64 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<link href='http://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Matt Yarbrough">
+	<title>{%  block title  %}revmatt{%  endblock title  %}</title>
+	<link rel="shortcut icon" href="{%  static 'ico/favicon.ico'  %}">
+    <link href="{%  static 'css/bootstrap.min.css'  %}" rel="stylesheet">
+	<link href="{%  static 'css/revmatt.css'  %}" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 20px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+	  <div class="site-wrapper" id="page_content">
+		  <div class="site-wrapper-inner">
+			  
+			  
+				  <div class="masthead clearfix">
+					  <div class="inner">
+						  <div class="masthead-brand"><a href="/"><img src="/static/images/logo.png" alt-"logo"></a></div>
+						  <ul class="nav masthead-nav navleft">ß
+							  <li><a href="/reviews">Reviews</a></li>
+							  <li><a href="/blog">Blog</a></li>
+						  </ul>
+						   <ul class="nav masthead-nav navright">
+							  <li><a href="/projects">Projects</a></li>
+							  <li><a href="/about/">About</a></li>
+						  </ul>
+					  </div><!-- close inner div -->
+				  </div><!-- close masthead clearfix div-->
+		
+		
+		
+				  
+				  <div class="inner cover" id="main_content">
+					  {%  block content  %}
+					  <p>Use this document as a way to quick start any new project.</p>
+					  {%  endblock content  %}
+
+				  </div> <!-- close inner cover main content div -->
+
+		  </div>  <!-- close site wrapper inner div -->
+
+		  <!-- Placed at the end of the document so the pages load faster -->
+		  <script src="http://code.jquery.com/jquery-latest.js"></script>
+		  <script src="{%  static 'js/bootstrap.min.js'  %}"></script>
+		  {%  block extra_js  %}{%  endblock extra_js  %}
+	  </div> <!-- close site wrapper div, all done -->
+  </body>
+</html>

@@ -1,0 +1,18 @@
+{% extends "blog/base_blog.html" %}
+
+
+
+{% block content %}
+<h2>
+<p class="meta">{{ object_list.count }} entr{{ object_list.count|pluralize:"y,ies" }} published in {{ year|date:"Y" }}. </h2>
+{% regroup object_list by pub_date|date:"F" as month_list %}
+	{% for month in month_list %}
+
+	<h2>{{ month.grouper }}</h2>
+
+	{% for post in month.list %}
+	  <li><a href="{{ post.get_absolute_url }}" rel="bookmark">{{ post.title }}</a></li>
+	  {% endfor %}
+	  {% endfor %}
+
+{% endblock %}

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}LukeTools: To Do List{% endblock %}
+
+{% block content %}
+<h2> todo </h2>
+
+{% for x in items %}
+<p>{{ x.name }} - {{ x.created|date:"D d M Y"}}</p>
+<p>{{ x.description }}</p>
+<hr>
+{% endfor %}
+{% endblock %}

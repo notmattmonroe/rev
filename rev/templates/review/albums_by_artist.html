@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}Rev Matt Reviews{% endblock %}
+
+{% block content %}
+{% for review in reviews %}
+{{ review.title }}
+{% endfor %}
+{% endblock %}
+{% block sidebar %}
+
+{% load review_tools %}
+{% artist_list %}
+
+{% endblock %}

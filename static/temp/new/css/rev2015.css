@@ -1,0 +1,60 @@
+body{ height: 100%;background:#cccccc; background-image:url('/Users/rev/Desktop/newdesign/bg.png');background-size:100%;background-repeat:repeat-y;font-family:'Forum',serif;font-size:120%;width:100%;}
+
+a { color: #fff;text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+h1 { font-weight: bold; padding-top: 20px; text-align: center; }
+
+h2 { padding-top: 20px; text-align: center; }
+
+p {
+  overflow: hidden;
+}
+
+.container_12,
+.container_16,
+.container_24 {
+  width: 90%;
+}
+.grid_12 {
+  padding-top: 10px;
+  padding-left: 10px;
+  background-color: #F7EEFF;
+  background-repeat: repeat-y;
+  margin-bottom: 20px;
+  -moz-border-radius: 15px;
+border-radius: 15px;
+opacity: 0.6;
+}
+.header {
+  text-align: left;
+  padding-left:10%;
+  font-family: "Josefin Sans";
+  text-shadow: 0 1px 3px rgba(246,247,197,.2);
+  font-weight: bolder;
+  font-size: 140%;
+  color: #694a69;
+}
+.navigation a{
+  padding-left: 50px;
+  color: #401e54;
+  text-shadow: 0 1px 3px rgba(246,247,197,.2);
+}
+.quote {
+  padding-left: 50px;
+  margin-bottom: 100px;
+  text-align: center;
+  width: 100%;
+  color: #ccc;
+  font-size: 120%;
+}
+.archives {
+  border-top: thin solid white;
+  padding-left: 50px;
+  text-align: center;
+  width: 100%;
+  color: #ccc;
+  font-size: 120%;
+}
+.footer { color: #ccc; width: 90%; text-align: center;}

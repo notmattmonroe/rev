@@ -1,0 +1,6 @@
+<div>
+<ul>
+{% for review in reviews %}
+<li> <A href="/reviews/{{review.slug}}">{{ review.title }}</a> </li>
+{% endfor %}
+</ul>

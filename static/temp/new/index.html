@@ -1,0 +1,60 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<link href='http://fonts.googleapis.com/css?family=Josefin+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Forum' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Matt Yarbrough">
+	<title>{%  block title  %}revmatt{%  endblock title  %}</title>
+	<link rel="shortcut icon" href="{%  static 'ico/favicon.ico'  %}">
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="css/text.css" />
+  <link rel="stylesheet" href="css/960.css" />
+  <link rel="stylesheet" href="css/rev2015.css" />
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+<h1>
+<div class="header">
+  Rev Matt
+  <span class="navigation">
+    <a href="/blog">blog</a> <a href="/reviews">reviews</a> <a href="/projects">projects</a> <a href="/about">about</a>
+  </span>
+
+</div>
+</h1>
+<div class="container_12">
+
+  <div class="grid_12">
+    <p>
+      {%  block content  %}
+
+					  Use this document as a way to quick start any new project.
+					  {%  endblock content  %}
+    </p>
+  </div>
+
+  <div class="grid_6">
+    <span class="quote">
+        {% load random_quotes %}
+
+    </span>
+    <div class="archives">
+    {% block archives %}
+ {% endblock archives %}
+  </div>
+  </div>
+</div>
+<div class="footer">
+    &copy;2015 revmatt.com all rights reserved.
+  </div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{% extends "blog/base_blog.html" %}
+
+
+{% block title %}Post archive{% endblock %}
+
+
+{% block content %}
+  <div class="post_list entry">
+    {% for post in object_list %}
+    <div class="post">
+      <h2 class="post-title"><a href="{{ post.get_absolute_url }}" title="View this post">{{ post.title }}</a></h2>
+      <p class="post-info">{{ post.publish|date:"Y F d" }}</p>
+      <p class="post-body">{{ post.body|safe|truncatewords:250  }}</p> 
+
+					
+    </div>
+    {% endfor %}
+  </div>
+  
+
+{% endblock %}

@@ -1,0 +1,6 @@
+<div>
+<ul>
+{% for artist in artists %}
+<li> <A href="/reviews/{{artist.id}}">{{ artist.artist }}</a> </li>
+{% endfor %}
+</ul>

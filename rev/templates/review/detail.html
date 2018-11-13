@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Rev Matt: {{ object.title }}{% endblock %}
+
+{% block content %}
+
+<div id="entry">
+    <h2>{{ object.title }} by {{ object.creator }}</h2>{{ object.date }}
+<br />
+{{ object.body|safe }}
+<br /><br />
+Rating: {{ object.rating }}
+</div>
+{% endblock %}

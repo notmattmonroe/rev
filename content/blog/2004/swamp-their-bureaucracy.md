@@ -1,0 +1,7 @@
+Title: In the swamp of their bureaucracy
+Date: 2004-04-29 11:01
+Slug: swamp-their-bureaucracy
+Category: personal
+Status: published
+
+We need to get the latest Treasury Daily Variable Interest Rate on a nightly basis.  It's published on their website.  We avoid screen scraping both due to the complexity of the layout of the information and the risk that the page format will change unexpectedly.  So we get a feed from Treasury nightly, right?  Wrong.<br /><br />We've been trying for several months to get a feed.  We've talked to people at all levels and in all areas of Treasury and been stonewalled at every point.  In our efforts many other people have come forward and noted they had the same problem and ultimately resolved it by paying a private company to provide them with a feed.<br /><br />So you have several different federal agencies spending taxpayer dollars to get a feed of publicly available information that is quite clearly already in electronic format.  I find it interesting that there are hundreds of banks and financial services companies that get a feed from Treasury every night and we can't.  One of the government managers noted that we need to have someone higher up contact Treasury to get any response, observing that &quot;If you don't have clout in DC, you won't get anything from anyone no matter what.&quot;<br /><br />Once again, I note that this project has accomplished in two short years what two decades of Republican rhetoric could not:  it has made me an advocate of smaller government.<br />

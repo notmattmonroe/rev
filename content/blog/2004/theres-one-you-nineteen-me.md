@@ -1,0 +1,7 @@
+Title: There's one for you nineteen for me
+Date: 2004-04-15 18:06
+Slug: theres-one-you-nineteen-me
+Category: personal
+Status: published
+
+The government estimates it takes the average person over 28 hours to fill out their tax paperwork, assuming they are filling out the full 1040 and itemizing deductions.  It's hard to say, as I did it in several stages as I found time this year, but I doubt it took me over 12 hours in total.   <br /><br />According to <a href="http://story.news.yahoo.com/news?tmpl=story&cid=519&e=5&u=/ap/20040414/ap_on_re_us/taxes_ap_poll">an AP Poll</a>, most Americans would prefer a balanced budget over a tax cut.  Particularly when the tax cut is going to increase your taxes down the road.  I find it interesting that Republicans where screaming that a balanced budget is the most important thing in the world when Dems were in the White House, but now it doesn't seem to be an issue anymore.<br /><br />The <a href="http://www.taxfoundation.org/">Tax Foundation</a> declared April 11th to be Tax Freedom Day.  They've been doing this for almost 40 years now, and have yet to get it right once.  The problem being that they are basing it on the median tax, which is wildly inaccurate since there is such a disparity in taxes between the people who make nothing and the people who make tens of millions or more.  A more accurate measure would be to base it on a mean range or a mode range.  Medians are meaningless for any real analysis.<br />

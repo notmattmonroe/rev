@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}revmatt — {{ category }}{% endblock %}
+
+{% block archives %}
+<h2>Archives</h2>
+{% for year, dates in dates_list %}
+<a href="{{ SITEURL }}/blog/{{ year }}/">{{ year }}</a> ~
+{% endfor %}
+{% endblock %}
+
+{% block content %}
+<h2 class="entry-title">Category: {{ category }}</h2>
+<div class="list post_list">
+  {% for article in articles %}
+  <div class="entry">
+    <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+    <p class="entry-info">{{ article.date | strftime("%-d %B %Y") }}</p>
+    <p class="entry-body">{{ article.summary }}</p>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

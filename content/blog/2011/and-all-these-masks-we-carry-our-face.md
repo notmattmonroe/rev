@@ -1,0 +1,7 @@
+Title: And all these masks we carry on our face
+Date: 2011-04-04 16:42
+Slug: and-all-these-masks-we-carry-our-face
+Category: personal
+Status: published
+
+The first sleep study was a little odd but it was fairly easy to sleep in spite of the plethora of wires adhered to me.  The adhesive takes several days to remove, particularly from the hair.<br /><br />  This time around there was a mask involved.  It looked a great deal like this:<br /><br /><img src="http://c1199712.cdn.cloudfiles.rackspacecloud.com/respironics-comfort-classic-nasal-cpap-mask-front.jpg" /><br /><br />So it was strapped on my head and there was pressure in a ring from the bridge of my nose down both side and around between my upper lip and nostrils (The Isles of Langerhans, for you Dr Science fans).  And then steady air flow on my entire nose and upper lip.  Very strange sensation, and it made breathing through my mouth very difficult when my nose became stuffy, and I had trouble taking deep enough breaths at times. <br/ ><br/ >I will be trying on a variety of masks when I pick up my machine as I'm hoping to find something a bit more comfortable.  My whole face still feels weird today.<br/ ><br/ >I was proposing to a coworker that I could put together my own machine.  I've already got a shop-vac with a  1 1/4" hose, just hook that up to a safety mask and some duct tape and boom!  CPAP!<img src="http://www.homedepot.com/catalog/productImages/300/9e/9e294c0e-0812-4b74-bb65-d692c4d72f58_300.jpg" />

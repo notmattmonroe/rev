@@ -1,0 +1,7 @@
+Title: I'm old school, I'm like an old fool
+Date: 2003-07-24 21:19
+Slug: im-old-school-im-old-fool
+Category: personal
+Status: published
+
+If you are a guy in St. Louis and need a good haircut I have the place for you.  Southampton Barber Shop on Hampton.    It's an old time barber shop (it's been there as a working barber shop since WWII).  Original chairs, guys who've been working there for 30 years, and a steady stream of regular customers.  Anyone who can make my hair look good is worth $11 plus a tip.  Cash only, none of that fancy modern credit card stuff.  They shave the back of your neck with a straight razor (and your face if you want).  I've gotten $50 haircuts at chi-chi salons that weren't as good.<p>Two of the barbers came back from lunch late while I was getting my hair cut, and one said that the other just talked and talked and talked and that's what took them so long.  Warren (my guy) said "Yea, he's the Mouth of the South... City".  I laughed, anyway.<p>The guys there are real conservatives.  Not the neofascist "neo-cons" running our country into the ground today.  Real conservatives.  Small government, lower taxes, take responsibility for your own actions, free market guys.  I like them.  I don't necessarily agree with their positions, but I respect them.  Talk touches on politics, but it's mostly plenty of old talk of cars and planes and family.<p>If you really want to make a day of it, there's a great used record store on the corner too (Record Exchange).

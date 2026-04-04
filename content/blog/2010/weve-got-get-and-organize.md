@@ -1,0 +1,7 @@
+Title: We've got to get up and organize
+Date: 2010-05-14 15:17
+Slug: weve-got-get-and-organize
+Category: personal
+Status: published
+
+I strive to be organized.  I build storage for the toys, dress up clothes, new desks optimized for maximum efficiency.  It's really a losing battle in a house with a dog, two cats, three kids under the age of 6, and an incredibly harried set of parents, but I try.<br /><br />In the days leading up to the contract handover at work there was no new work being requested by the government side so I spent a lot of time cleaning up my inbox and archiving old mail and etc etc.  My inbox had grown to over 800 items, which really stresses me out.  Our Exchange server is crap so the filters rarely work, which doesn't help.<br /><br />I try to keep on top of this but once I let it slip a little it becomes an avalanche.  During a busy week, like when we do a major release, there can easily be a few dozen emails a day related to a specific Change Request and when there's a series of file adjustments or hotfixes it gets even worse.  So now I'm down to a handful of 'to process' items in my inbox and a few emails from today I have to get to still.  The message count is at 12 items, which is still more than I'd like.  Inbox Zero is unrealistic for any extended period of time, but I'd like to have fewer than 10 items awaiting my attention there.  <br /><br />Maybe I'll tackle my home email this weekend, as that's really out of control...

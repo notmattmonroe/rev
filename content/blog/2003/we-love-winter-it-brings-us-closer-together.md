@@ -1,0 +1,7 @@
+Title: We love the winter, it brings us closer together
+Date: 2003-02-17 12:57
+Slug: we-love-winter-it-brings-us-closer-together
+Category: personal
+Status: published
+
+We got more snow than expected this weekend, and the roads were bad enough yesterday that we opted to stay in rather than run errands.  That's OK, we got a lot done around the house instead.  It was nice on the walk from the <a href="http://www.bi-state.org">metro station</a> to the office, mostly untrampled snow.  Very peaceful<p>Yes, it's a <a href="http://www.patriotism.org/presidents_day/">fed holiday</a> and I'm at work.  I find I can get a lot more work done with fewer people here.  The people who come in on off days tend to be in to do work and only stick around long enough to get that work done, as opposed to during the week when everyone is in for 8 and if they have nothing to do they have no problem sitting and talking at you even when you're quite obviously busy.  I hate that.  CuteMatt and I are doing the first deployment of the workorder 5 module (OK, I'll be honest, I have no idea what is on which workorder anymore, so this could be from workorder 23 for all I know.  It's a new module, this is the first time it's going on the server.) and I'm planning on finishing up the prototype screens for workorder 7.  If time permits, I'm going to start in on the <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0672324725/qid=1045494774/sr=8-1/ref=sr_8_1/103-2308901-9923830?v=glance&s=books&n=507846">Struts</a> book I picked up this weekend.  <p>

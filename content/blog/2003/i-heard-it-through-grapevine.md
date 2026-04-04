@@ -1,0 +1,7 @@
+Title: I heard it through the grapevine.
+Date: 2003-02-19 18:56
+Slug: i-heard-it-through-grapevine
+Category: personal
+Status: published
+
+We had a status meeting today.  Some items of note:<ul><li>We have a new org chart.  The practical effect of which (well, the only practical effect I actually care about) is that I'll be doing more development work.  This is a good thing.<li>It appears that we may be able to talk to someone who knows someone that talked to somebody about the information we need.  That will help a lot.<li>Our solution to the lack of solid deliverables:  Deliver what we've done by the due date and declare victory.  It worked last time, so why not?<li>We are actively looking for two developers.   After a pause, C2 says "I know a guy..." pause.  R says "Good for you."  Laughter ensues, the meeting is over.</ul>Some random thoughts I ran across in my notebook:<ul><li>Always be wary when the client hands you a database model written in crayon<li>I like any insult that involves footnotes and cross references to Nietzche and Keynes.<li>I like people who ask "do you know anything about project X?"  No. "Oh, OK" and then proceed to tell me all about some obscure detail of the project and ask for my advice on something I clearly know nothing about.</ul>And last, but least, a quote for the day.<blockquote>"We thought, 'How hard could it be to build an OS?' and scheduled 18 months to build NT. But we had forgotten about some of the important stuff--user mode, networking, andso on." - Mark Lucovsky, Windows Server Architect</blockquote>

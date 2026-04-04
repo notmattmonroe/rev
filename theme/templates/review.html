@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}revmatt — {{ article.title }}{% endblock %}
+
+{% block sidebar %}
+<div class="archives">
+  <h2>Reviews</h2>
+  <a href="{{ SITEURL }}/reviews/">All reviews</a>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="entry">
+  <h2 class="entry-title">{{ article.title }}</h2>
+  <p class="entry-info">
+    {% if article.artist %}by <strong>{{ article.artist }}</strong> &mdash; {% endif %}
+    {{ article.date | strftime("%-d %B %Y") }}
+    {% if article.reviewtype %}&mdash; {{ article.reviewtype }}{% endif %}
+  </p>
+
+  {% if article.rating %}
+  <p class="entry-rating">
+    Rating: {{ article.rating }}/5
+  </p>
+  {% endif %}
+
+  <div class="blogpost">
+    {{ article.content }}
+  </div>
+
+  {% if DISQUS_SITENAME %}
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = '{{ SITEURL }}/{{ article.url }}';
+      this.page.identifier = '{{ article.slug }}';
+    };
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  {% endif %}
+</div>
+{% endblock %}

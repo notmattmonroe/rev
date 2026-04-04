@@ -1,0 +1,7 @@
+Title: Baby, let's creep, I had enough of this action
+Date: 2004-03-29 14:43
+Slug: baby-lets-creep-i-had-enough-action
+Category: personal
+Status: published
+
+Tonight Prince kicks off the<a href="http://www.rr.npgmusicclub.com/"> Musicology tour</a>.  The show will be satellite broadcast to theatres across the country. I am a bit of a Prince fan.  Just a little.   <a href="http://www.angerisagift.net/">Anger</a> very kindly offered me his spare ticket, but given Mae's state I declined.  The show doesn't even start until 10pm.  Sigh. As it turns out I only got about four hours of sleep last night, so I'm in no shape to be going to a show anyway.<br /><br />As slight compensation for not going to the show, I am listening to 96 tracks of non stop soul.   All unreleased tracks or alternate takes.<br /><br />To add insult to injury, the album is available for download to music club members (along with several other unreleased albums) for $7.77, but it's in DRM'd WMA format.  Which means it can only be played on Windows computers using Windows Media Player 9.  The site is noncommital about the Mac, stating only that Mac users may experience difficulty with the files.  <br /><br />Shame really.  I wish he'd opted to go the iTunes route instead of using a closed solution that locks out a lot of fans.  I will check if I can play the files on the Mac tonight, but if I can't then I guess I won't be getting the new album or the other unreleased albums.<br />

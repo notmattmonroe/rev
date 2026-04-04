@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}revmatt — blog{% endblock %}
+
+{% block archives %}
+<h2>Archives</h2>
+{% for year, year_dates in dates | groupby('date.year') | sort(attribute='grouper', reverse=True) %}
+<a href="{{ SITEURL }}/blog/{{ year }}/"> {{ year }}</a> ~
+{% endfor %}
+{% endblock %}
+
+{% block content %}
+<div class="list post_list">
+  {% for article in articles_page.object_list %}
+  {% if article.category.slug in ['personal', 'blog'] %}
+  <div class="entry">
+    <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+    <p class="entry-info">{{ article.date.strftime("%-d %B %Y") }}</p>
+    <p class="entry-body">{{ article.summary }}</p>
+    <p class="entry-footer"><a href="{{ SITEURL }}/{{ article.url }}">read more</a></p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+{% if articles_page.has_other_pages() %}
+<p class="pagination">
+  {% if articles_page.has_previous() %}
+  <a class="newer" href="{{ SITEURL }}/{{ previous_page_url }}">Newer</a>
+  {% endif %}
+  {% if articles_page.has_previous() and articles_page.has_next() %} | {% endif %}
+  {% if articles_page.has_next() %}
+  <a class="older" href="{{ SITEURL }}/{{ next_page_url }}">Older</a>
+  {% endif %}
+</p>
+{% endif %}
+{% endblock %}

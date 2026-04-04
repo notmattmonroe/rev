@@ -1,0 +1,7 @@
+Title: But chop suey is Chinese food that is eaten by the masses
+Date: 2008-06-27 16:24
+Slug: chop-suey-chinese-food-eaten-masses
+Category: personal
+Status: published
+
+I've been listening to the <a href="http://www.chineselearnonline.com/">Chinese Learn Online</a> podcast for about a month now, in my first steps towards learning Mandarin.  I did learn a little from a different podcast before we went to China last year, enough to ask a few basic questions and say "thanks" and the like but I had very little ability to understand it when spoken to me.  I spen quite a bit of time sampling different podcasts over the past few months trying to find one that really clicked with me in terms of teaching style and variety of accents.  A lot of them, like the BBC one for example, are meant to get a business person or tourist through a short trip to China.  I'm more interested in really learning the language with essentially narrowed it down to CLO or Chinesepod.  I felt like I was getting more out of CLO quicker, so I'm sticking with that one though Chinesepod is quite good as well.<br /><br />A few things about it that I particularly like:<ul><li>they bring in different people with different regional accents<li>extensive use of 'listen to this conversation and try to keep up'<li>notes, tips, and worksheets</ul>In preparation for my upcoming birthday, I can now say my birthday in Mandarin.  It's a mouthful...<br /><br />wo de shung rÃ¬ shÃ¬ liÃ¹ yuÃ¨ san shÃ­ hÃ o

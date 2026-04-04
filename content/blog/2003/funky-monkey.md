@@ -1,0 +1,7 @@
+Title: That funky monkey
+Date: 2003-07-11 13:15
+Slug: funky-monkey
+Category: personal
+Status: published
+
+Growlers was a blast.  Definitely the most fun I've had in some time.<a href="http://cm.1jiveturkey.com/">Crackmonkey</a> is just as crazy as you thought.  No, he really did not become incontinent, but it was damn funny.<p><a href="http://www.cybrpunk.com">Cybr</a> wants to go back to Guitar Center, and I suppose I can probably be talked into it ;)   I wonder if he realizes I'm going to try to talk him into another guitar lesson, primarily for the pained expressions on his face as he fights to position his fingers properly without muting half the strings.<p>And another thing: For all people rant and rave about the bloat of mozilla, most of the alternatives are pure crap.  Galeon's UI is almost unusable, Konqueror is not much better and tries even harder to be all things to all people.  Opera isn't bad, but their linux version tends to lag others and I'm impatient.  I can't wait for <a href="http://mozilla.org/projects/firebird/">firebird</a> to be stable and support bookmarking tab groups.<p>Last, but least, through a bizarre confluence of variables, I got a piece of spam yesterday that I actually read.  Why?  The senders name was that of one of the government managers we're working with and the subject line happened to be the name of one of the projects.  Of course, I quickly realized that he wasn't likely to be sending me information about an opportunity to participate in a sales position (read:pyramid scheme).  Odd, nonetheless.

@@ -1,0 +1,7 @@
+Title: It's like slapping yourself in the face
+Date: 2002-11-26 22:24
+Slug: its-slapping-yourself-face
+Category: personal
+Status: published
+
+What a week or two.  I've been overwhelmed with Websphere issues and thesite upgrade to Mae and the new blogtool and updating the look on this siteand etc etc.<br><br>Websphere: &nbsp;Suuuuure "if it works in the IDE, it will work on the server,4.0 is all about ease of deployment." &nbsp;Liars.<br><br>I'm going to corporate on Mon to be marketed at by MSFT.  They'd like us to help them get a foot in the door with the federal facility I'm working with (they've tried several times and been rebuffed) and encourage them to use .Net.  I'm the server/infrastructure guy for the meet.  I solicited everyone I know who is actually using .Net for their opinions good and bad, and the general conclusion I can draw is the same as that which I can draw for most technologies in the market today:  Some if it is great, some sucks, most of it is OK.  It's better than x at y, worse than x at z.  However, one individual did ask repeatedly if each time the salesloser says "Web Services" I would punch him in the stomach.  I'll see what I can do.  I do plan on wearing my <a href="http://www.penguincomputing.com/">Penguin Computing</a> t shirt ;)<p><div align="center"><img src="http://www.mccci.com/TuxOnGates.jpg" border="0"></div><p><h1><a href="http://www.adbusters.org/campaigns/bnd/">Buy Nothing.</a></h1><br>

@@ -1,0 +1,7 @@
+Title: I thought that you'd give up
+Date: 2007-12-17 15:15
+Slug: i-thought-youd-give
+Category: personal
+Status: published
+
+I've been enjoying the <a href="http://wonkette.com/politics/the-war-on-paultards/wonkette-appoints-angry-commenter-general-in-paultard-war-325637.php">War on Paultards</a> far too much.  I'll be <a href="http://wonkette.com/politics/the-war-on-paultards/commenter-general-farr-leads-blimp-day-raid-334123.php">very sad when it's over</a>.  A lot of people get the wrong idea about the whole issue and think that we (those who are at war with the Paultards) hate Ron Paul and all his supporters.  That might be true for some, but the vast majority of us take issue only with a small but <a href="http://wonkette.com/politics/wonk.d/nick-farr-spotted-yelling-at-paultards-334239.php">very very vocal</a> minority of his supporters.  Call them the worst stereotypes of libertarianism.  <br /><br />The other day someone noted that they found Paul amusing and annoying but finding out that he was *not* an <a href="http://en.wikipedia.org/wiki/Objectivism_%28Ayn_Rand%29">objectivist</a> raised their low opinion of him considerably, a sentiment I concur with.  But hey, they did manage to <a href="http://wonkette.com/politics/paultard-blimp/hooray-for-all-blimps-334277.php">semi-successfully purchase advertising</a>, so they are clearly <a href="http://wonkette.com/politics/paultard-tea-party/paultard-moneybomb-an-abject-failure-334555.php">a force to be reckoned with</a>.<br />

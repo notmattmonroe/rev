@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block title %}revmatt — projects{% endblock %}
+
+{% block content %}
+<h2 class="entry-title">Projects</h2>
+<div class="list post_list">
+  {% for article in articles | sort(attribute='date', reverse=True) %}
+  {% if article.category.slug == 'projects' %}
+  <div class="entry">
+    <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+    <p class="entry-info">{{ article.date.strftime("%-d %B %Y") }}</p>
+    <p class="entry-body">{{ article.summary }}</p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}

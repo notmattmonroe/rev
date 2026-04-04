@@ -1,0 +1,7 @@
+Title: Security personnel, security personne
+Date: 2002-12-12 13:16
+Slug: security-personnel-security-personne
+Category: personal
+Status: published
+
+I was reading the "Roles and Responsibilities" document, as requested in our meeting yesterday.  I ignored the fact that there are at least two roles missing, there are four people listed who are no longer with the company (each having been gone for more than 6 months at this point), there are five people not listed, and there are two development teams (they were consolidated into one, again about 6 months ago).  I was interested to see my entry:<p/>Primary â User Interface design, Deployment, and SecuritySecondary â Alternate Systems Administrator<p/>I'm actually working primarily on just those.  Assuming that the processes outlined in the document (for requirements gathering, development, qa, etc) are what we are actually supposed to be following, I'd say we're way off...<p/>On the recommendation of one of our developers, I checked out <a href="http://www.websphere-world.com">Websphere World</a>, which runs not on Websphere (or even java of any sort) but on php.  That entertains me.<p/>Microsoft appears to be planning on counter-offering for Rational, which would be a smart move but unlikely to succeed as there would be significant legal consequences for Rational if it backed out of the agreement with IBM (then again, if MSFT doubled IBM's offer, they could bear any penalties quite easily).  It will be interesting to watch this one.  Rumours also indicate Borland is in MSFTs sights.  

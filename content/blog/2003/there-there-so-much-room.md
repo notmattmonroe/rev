@@ -1,0 +1,7 @@
+Title: Up there there is so much room
+Date: 2003-12-15 16:29
+Slug: there-there-so-much-room
+Category: personal
+Status: published
+
+xoverboard makes one of the <a href="http://www.xoverboard.com/2003_12.html#000325">most poignant observations</a> about the capture of Saddam that I've seen yet.<br /><br />I equally enjoyed hiscomment: <br /><p style="font-style: italic;">Congratulations to Mr. Saddam Hussein of Tikrit, Iraq, for the newest title-holder of<a href="http://www.time.com/time/world/article/0,8599,561472,00.html" target="_blank" style="color: rgb(0, 0, 0);">the strangest goddamn thing ever said by anyone, ever</a>:</p><blockquote><span style="font-style: italic;">When offered a glass of water by his interrogators, Saddamreplied, âIf I drink water I will have to go to the bathroom and howcan I use the bathroom when my people are in bondage?â<br /><br /><br /><br /></span> </blockquote><p>Also note the following keen observation from the <a href="http://www.washingtonpost.com/wp-dyn/articles/A58120-2003Dec11.html">Post</a>:<blockquote><span style="font-style: italic;"> "I'm mad as hell and I'm not going to take it any more," Azeezaly S. Jaffer, vice presidentof public affairs and communications for the U.S. Postal Service, said in a statement; Jaffernoted that he had lifted the line from Peter Finch's character in the 1976 flick "Network."This is probably not the best choice Jaffer has ever made as spokesman for the postalservice. </span></blockquote>          

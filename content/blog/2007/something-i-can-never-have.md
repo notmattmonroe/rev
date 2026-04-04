@@ -1,0 +1,7 @@
+Title: Something I can never have
+Date: 2007-05-23 18:08
+Slug: something-i-can-never-have
+Category: personal
+Status: published
+
+<br />Killer interview with <a href="http://www.news.com.au/heraldsun/story/0,21985,21741980-5006024,00.html">Trent Reznor</a>.  I can't wait for his 'pay me directly' work to start coming out.  <a href="http://www.npgmusicclub.com/">Prince</a> has done this for several years online, the <a href="http://bnlmusic.com/music/">Barenaked Ladies</a> are doing it as well.  <a href="http://www.righteousbabe.com/">Ani DiFranco</a>, of course.  In a different approach <a href="http://zappa.com/">Frank Zappa</a> did it for 20+ years and would certainly have embraced digital distribution had he lived long enough.  <br /><br />In fact he predicted both a digital download and a digital subscription model in his 1990 book &quot;<a href="http://www.amazon.com/Real-Frank-Zappa-Book/dp/0671705725/ref=sr_1_8/002-2377841-0701605?ie=UTF8&s=books&qid=1179940249&sr=8-8">The Real Frank Zappa Book</a>&quot;.<br /><br />Of course Trent is more technically savvy than most, suggesting 'you pick the bitrate' and I'm sure multi-format options.  BNL are a very close runner up with offering FLAC and even GarageBand format for remixers.    Prince has done the least best approach and chosen crippled WMV files that suddenly stop working if you update Windows Media Player or if you don't have an internet connection when you the file decides it needs to be revalidated.<br />

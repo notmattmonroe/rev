@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}revmatt — {{ page.title }}{% endblock %}
+
+{% block content %}
+<div class="entry">
+  <h2 class="entry-title">{{ page.title }}</h2>
+  <div class="blogpost">
+    {{ page.content }}
+  </div>
+</div>
+{% endblock %}

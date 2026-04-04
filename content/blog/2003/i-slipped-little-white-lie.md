@@ -1,0 +1,7 @@
+Title: I slipped on a little white lie
+Date: 2003-04-03 21:52
+Slug: i-slipped-little-white-lie
+Category: personal
+Status: published
+
+preÂ·mier    ( P )  Pronunciation Key  (pr-mÃ®r, -myÃ®r, prmÃ®r)<br>adj.<br><ol type="1"><li> First in status or importance; principal or chief: an architect of premier rank.   <li>First to occur or exist; earliest.</ol>This is a word that is increasingly misused.  I blame marketing people.  Almost daily I see something touting [x] as the premier [soft drink|web hosting service| debugging tool|cheese spread|etc].  More often than not, I've never even heard of them.  Now granted, if it's a field that I know nothing about that's understandable.  But when someone is claiming to have the premier linux distribution and no one in the linux community has heard of them before, chances are it's not quite an accurate statement (read: blatant lie).  I tend to distrust companies and organizations that blatantly lie.  <p>"We have the premier [x] for doing [y]" is a tad suspicious when the product was only released today and there are popular competing products that have been around for months/years.  That would be like Microsoft touting .Net as the leading development platform when they haven't even released it yet and it's market share (of beta developers) is measured in single digits.  Oh wait, they are already doing that.<p>On a happier note:<br><font color="FFFF00">QA:</font> just got your e-mail on LDAP.  Hooray!  You are the smartest ever!<br><font color="000000">rev:</font> True

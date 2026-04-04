@@ -1,0 +1,7 @@
+Title: They're fishing in the kitchen but they haven't caught up to me
+Date: 2009-01-01 13:46
+Slug: theyre-fishing-kitchen-they-havent-caught-me
+Category: personal
+Status: published
+
+There is a particular stage of exertion where every muscle aches, you're exhausted both physically and mentally.  It is without question a great way to go to sleep.  Just laying down in that state to drift off is such a relief.   <br /><br />When I worked at Great America it was a frequent part of my weekends, as that's when I'd work extra hours at the Redwood Amphitheatre often clocking 2-3 20 hour days over the course of the weekend loading and unloading trucks and setting up lighting rigs and raising speaker stacks etc etc.  Turns out that hosting a New Year's/Birthday Party with a dozen kids under 5 is also a good way to get to that state...<br /><br /><b>Groucho:</b> All right. It says the first part of the party of the first part shall be known in this contract as the first part of the party of the first part, shall be known in this contract - look, why should we quarrel about a thing like this, we'll take it right out, eh?<br>						<br>						<b>Chico:</b> Yes, it's too long anyhow. Now what have we got left?<br>						<br>						<b>Groucho:</b> Well I've got about a foot and a half. Now what's the matter?<br>						<br>						<b>Chico:</b> I don't like the second party either.<br>						<br>						<b>Groucho:</b> Well, you should have come to the first party, we didn't get home till around four in the morning. I was blind for three days.<br>						<br>

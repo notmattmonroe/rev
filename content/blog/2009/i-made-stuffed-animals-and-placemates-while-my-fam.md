@@ -1,0 +1,7 @@
+Title: I made stuffed animals and placemates while my family grows
+Date: 2009-12-30 14:36
+Slug: i-made-stuffed-animals-and-placemates-while-my-fam
+Category: personal
+Status: published
+
+<a href="http://sciencebasedparenting.com">Science Based Parenting</a> has started a wonderful series of posts on Raising Freethinkers, in conjunction with the resources referenced in the book <a href="http://www.amazon.com/Raising-Freethinkers-Practical-Parenting-Beyond/dp/0814410960/ref=sr_1_2?ie=UTF8&s=books&qid=1262142592&sr=1-2">Product Image  	Raising Freethinkers: A Practical Guide for Parenting Beyond Belief</a>.  The  <a href="http://sciencebasedparenting.com/2009/12/29/raising-freethinkers-resources-guide-part-1/">first installment</a> focuses on The Inquiring Mind, Living and Teaching Ethics in your Family, and Secular Family in a Religious World.  <a href="http://sciencebasedparenting.com/2009/12/30/raising-freethinkers-resources-guide-part-2/">The second entry</a> covers The Physical Self, Ingredients of a Life Worth Living, and Celebrating Life.<br /><br />I found McGowan's prior book, Parenting Beyond Belief, to be a little too vague to be of practical use to me.  For someone just starting out in learning about rationalism,  skepticism, and reality based parenting it's worth reading and has a fair amount of good advice.  For me it was a lot of things that I had already figured out and an overview of the rationalist viewpoint that I was already very familiar with.

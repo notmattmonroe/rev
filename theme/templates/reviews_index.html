@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}revmatt — reviews{% endblock %}
+
+{% block sidebar %}
+{% set ns = namespace(artists=[]) %}
+{% for article in articles %}
+  {% if article.category.slug == 'reviews' and article.artist %}
+    {% if article.artist not in ns.artists %}
+      {% set ns.artists = ns.artists + [article.artist] %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+<div class="archives">
+  <h2>Artists</h2>
+  {% for artist in ns.artists | sort %}
+  <a href="{{ SITEURL }}/blog/category/reviews/?artist={{ artist }}">{{ artist }}</a><br>
+  {% endfor %}
+</div>
+{% endblock %}
+
+{% block content %}
+<h2 class="entry-title">Reviews</h2>
+<div class="list post_list">
+  {% for article in articles | sort(attribute='date', reverse=True) %}
+  {% if article.category.slug == 'reviews' %}
+  <div class="entry">
+    <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+    <p class="entry-info">
+      {% if article.artist %}<strong>{{ article.artist }}</strong> &mdash; {% endif %}
+      {{ article.date.strftime("%-d %B %Y") }}
+      {% if article.rating %}&mdash; {{ article.rating }}/5{% endif %}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}

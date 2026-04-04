@@ -1,0 +1,7 @@
+Title: What the fuck do you think you're doing?
+Date: 2003-04-21 13:13
+Slug: what-fuck-do-you-think-youre-doing
+Category: personal
+Status: published
+
+Mike3 notified me that <a href="http://journalism.berkeley.edu/projects/biplog/archive/000748.html">Revolution is not an AOL keyword</a>.  <a href="http://doc.weblogs.com/">Doc Searls</a> also is hip to this groove.  Equally as important is the realization that <a href="http://www.everything2.com/index.pl?lastnode_id=124&node_id=685239">The television will not be revolutionized</a>.<p>Madonna, however, <a href="http://seattlepi.nwsource.com/pop/118048_tf118x.html">doesn't get it</a>.  For someone who was once a very astute and foresightful businesswoman, she's remarkably uninformed about the digital media world.  Her website was <a href="http://www.undercover.com.au/news/2003/20030420_madonna.html">hacked</a> to allow anyone to download the whole album for free, and <a href="http://www.digitalcutuplounge.com/audio-video">DCL</a> has remixed her "what the fuck do you think you're doing" comment into a fairly drab techno track.  I've heard the first single (American Life).  It's possibly one of the worst songs I've ever heard from a professional.  Ever.  <p>If you're a Tivo fan, <a href="http://www.tivo.com/linux/index.html">you can check out</a> the mods they've made to the kernel.  I respect tech companies who realize that people who buy their products might want to mess around with them and make them do things Tivo never thought of, and support them in doing so.<p>

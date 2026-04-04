@@ -1,0 +1,7 @@
+Title: Making a list
+Date: 2012-11-28 03:22
+Slug: making-a-list
+Category: personal
+Status: published
+
+been catching up on KEXP Song of the Day. <p />Keepers:<br />Tilly and the Wall (I knew this already, but this is a song of theirs I hadn't heard)<p /?Worth listening to more to see if I actually like them:<br />The HeavyUlfur Ulfur<br />Ghostigital<br />The Liminanas<p />No:<br />Corin Tucker Band<br />Tamaryn<br />Aimee Mann<br />Asgeir Trausti<br />Ben Gibbard<br />Benjamin Schoos<br />Beth Jeans Houghton and the Hooves of Destiny<br />Black Marble<br />Bob Mould<br />Books on Fate<br />Brainstorm<br />Brothers From Another<br />Calexico (odd, as I like other songs of theirs)<br />Campfire OK<br />Cate Le Bon<br />Chad Valley<br />Cult of Youth<br />David Wax Museum<br />Divine Fits<br />Django Django<br />Dusted<br />Fergus & GeronimoFirewater<br />Fort Union<br />Gibraltar<br />Grizzly Bear (even with shout outs by Childish Gambino)<br />Gulls<br />Hot Chip<br />Jason Lytle<br />Letting Up Despite Great Faults<br />Lord Huron<br />Matthew Dear<br />Menomena<br />Moses Hightower<br />Ojba Rasta<br />Pinback<br />Poolside<br />Red Kross<br />River Giant<br />Rocky Votolato<br />Rose Windows<br />School of Seven Bells<br />Seapony<br />Shovels and Rope<br />Silver Swans<br />Sin Fang<br />Stagnant Pools<br />The Antlers<br />The Cactus Channel<br />The Maldives<br />The Mountain Goats<br />The Sea And Cake<br />Thee Oh Sees<br />Tilbury<br />Tokyoidaho<br />Turtle Giant<br />Violens<br />Wax Tailor<br />Wild Nothing<br />Willy Moon<br />Woods<br />

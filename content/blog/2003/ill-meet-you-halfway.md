@@ -1,0 +1,7 @@
+Title: I'll meet you halfway
+Date: 2003-04-02 20:53
+Slug: ill-meet-you-halfway
+Category: personal
+Status: published
+
+Today's scheduled deployment did not happen, in spite of the fact that the DBA came in at 5am to move the data to production.   It has been rescheduled for next week.  This is our January deployment.  Once we get this out the door, we will schedule our February deployment.  Should I point out to anyone that it is now April?  Perhaps not.<p>We learned from the people in DC that making a change to an online form from 3 characters to 4 characters would require 80 days of training for the users.  Yes, making it so the users can enter four characters instead of three involves 3 months of training.  Please, stop the insanity!<p>Watched AmIdol last night.  So sue me.  Ruben has an astounding voice.  If he ever does get a CD out, I'm buying it.  Clay would be great on Broadway, as would the blonde Kimberly.  The other Kimberly is pretty good as well.  The rest are forgetable.<p><b>GEEK SPEAK AHEAD</b><br>LDIF files are plaintext.  An LDIF file of usernames shouldn't be 1.2M.  Seriously.  Half the users in the list are retired (and/or dead) and of those remaining half will never use the system.  But we're loading them in anyway.<p>I'd also like to note that if your networking problem is happening at the physical layer, changing the transport layer won't help.  If the problem is with a firewall configuration, changing your application isn't going to help.  But what the hell do I know.

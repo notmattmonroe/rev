@@ -1,0 +1,7 @@
+Title: If I could I surely would kick the ass of Father Time
+Date: 2002-12-07 21:23
+Slug: if-i-could-i-surely-would-kick-ass-father-time
+Category: personal
+Status: published
+
+I have a few friends whom I've known forever.  Friends whom I became so close with that they are family to me.  And I became so close with their families that I consider them family as well.  I got an email from one of them this evening.  His mom is engaged in a tough battle with cancer.  This has been going on for some time, but she has recently had some difficulties and is now at the point of undergoing experimental treatments.  He is dispassionate in his email, but it is clear that he is devastated.  I am deeply worried, I know how wonderful a family that is and how close they are and this is terrible blow to them all, particularly at a time when the world around is busy "celebrating" while they hold vigil and hope that she will survive.  Think about this as you spend time with your loved ones this holiday season, and value that time.  It is my fervent hope that she pulls through, she is a wonderful woman.<P>This reminds me of my own family, and those that I've lost, and how I do feel that emptiness even now years later.  It's no longer a constant pain, but it is there, and it is there every day.  I'm now in an unsociably morose mood, and must go out to the Neighborhood Homeowners' Association holiday dinner.  

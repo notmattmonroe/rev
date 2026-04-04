@@ -1,0 +1,7 @@
+Title: Open the door get on the floor everybody walk the dinosaur
+Date: 2010-02-09 16:35
+Slug: open-door-get-floor-everybody-walk-dinosaur
+Category: personal
+Status: published
+
+An excellent <a href="http://www.examiner.com/x-28950-Riverside-Atheism-Examiner~y2010m2d6-California-case-means-a-boost-for-evolution-teaching">Pro science</a> ruling (thanks to <a href="http://scienceblogs.com/gregladen/2010/02/courts_allow_university_of_cal.php">Greg Laden</a> for posting on this @ scienceblogs).  And as he notes this sets the stage for colleges and universities to reject specific coursework from homeschoolers as well.  Which they should be allowed to do.  Schools have set academic standards, if students have not received an education that meets those standards then those particular courses should not be credited.  <br /><br />It doesn't prevent students from getting in to a particular college or university, but it does mean they will need to supplement their education with coursework at a community college before getting in or that they will have to take remedial classes their first year to make up for the coursework they are missing.  Unfortunately I am sure this will be taken to the Supreme Court and given the current ideological makeup I'm sure they will gladly be activist judges and create new precedent requiring schools to make exceptions in science requirements for creationists.

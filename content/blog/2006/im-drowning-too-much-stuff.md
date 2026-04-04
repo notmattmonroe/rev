@@ -1,0 +1,7 @@
+Title: I'm drowning from too much stuff
+Date: 2006-04-21 11:15
+Slug: im-drowning-too-much-stuff
+Category: personal
+Status: published
+
+'ve noticed from beta testers (in particular Microsoft cheerleader Paul Thurrot) how disappointed they are with Windows Vista. The primary complaint is that all the great features MS has been touting for over three years are either not there or greatly diminished. Things like WinFS and a completely rewritten .Net based OS which were announced early to discourage consumers and companies from moving to Linux or OS X are gone. The security model, intended to address the truly abysmal security record, is more of an impediment than anything. The on again off again attempts to update IE have alienated even some of the most devout fanboys. I only pay attention to this because I'm sure I'll eventually have to use Vista at work. <br /><br />While I was reading Thurrot's latest and his unfavorable comparisons of Vista to OS X something dawned on me. Apple started the move to Intel with &quot;you cannot run Intel OS X on anything other than an Apple brand Intel box, and we won't help you run Windows on our machines either.&quot; They've recently reversed course on the first of those. I suspect that *if* the public reaction to Vista once it is released is anything like that of the beta testers,there might be an interesting &quot;Oh, one more thing&quot; at MacWorld next year... 

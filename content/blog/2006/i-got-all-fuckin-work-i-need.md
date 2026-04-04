@@ -1,0 +1,7 @@
+Title: I got all the fuckin work I need
+Date: 2006-07-24 16:39
+Slug: i-got-all-fuckin-work-i-need
+Category: personal
+Status: published
+
+Some choice bits from the upgrade status meeting.  <br /><br /><span style="color: rgb(255, 0, 0);">Network guru:</span> Well then, why don't we just print the password on a bunch of t-shirts for everybody, then no one will forget it.<br /><br /><span style="color: rgb(255, 0, 0);">PM:</span> Which certification instance should we be pointing at?<br /><span style="color: rgb(0, 0, 255);">Reports Lead:</span> The one with data in it.<br /><br /><span style="color: rgb(255, 0, 0);">Network guru:</span> That's why I was doing that whole hosting.stlouis.mofo.funk thing on Friday<br /><br /><span style="color: rgb(255, 0, 0);">Network guru:</span> Usually the turnover meeting happens before deploying to production, but we'll go with this<br /><span style="color: rgb(0, 0, 255);">Me:</span> Yea, well, usually certification deployment happens before production deployment too<br /><span style="color: rgb(255, 0, 0);">Network guru:</span> I was trying to ignore that<br /><br />Note that we are changing: hardware platform, OS, skipping several versions of application server, upgrading db server version, switching reporting app server, and replacing cron with a scheduling suite.  And coordinating it with 4 seperate business units.  It's all going remarkably well, considering.  We're in pretty good shape for the shape that we're in.<br />

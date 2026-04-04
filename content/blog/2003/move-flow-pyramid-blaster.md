@@ -1,0 +1,7 @@
+Title: Move to the flow of the pyramid blaster
+Date: 2003-08-13 15:28
+Slug: move-flow-pyramid-blaster
+Category: personal
+Status: published
+
+So the latest Microsoft worm is wreaking havoc across the net.  It hit everyone here at work(except of course myself and our sysadmin, who patched his system a month ago when the vuln was announced).If you are going to use a computer, you would be wise to keep up to date with security patches.Regardless of platform, as there are security holes on all platforms.<p> I pitched in yesterday afternoon after Sparks! left, to help some people who hadn't been patched yet.I find the XP interface to be incredibly ugly, and once again they've moved everything and changed theadmin tools enough that I had to hunt to get anything done.  I still wasn't able to determine how toadd a domain user to local admin (not that I tried very hard), but I got the system patched and that'sall that matters I suppose.<p><a href="http://zdnet.com.com/2100-1107_2-5063035.html">Charles Cooper</a> has an interesting observation:<blockquote> If this were the exception rather than the rule, I would agree that the customer should be heldresponsible for making sure the latest fixes were downloaded onto a company's computers. But aftertwo decades' worth of Swiss cheese software security, the world's biggest supplier of operatingsystem software has run out of excuses. It took scientists less time to map the human genome.</blockquote>          

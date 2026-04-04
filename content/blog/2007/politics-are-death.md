@@ -1,0 +1,7 @@
+Title: Politics are death
+Date: 2007-05-02 13:06
+Slug: politics-are-death
+Category: personal
+Status: published
+
+<span style="font-weight: bold;"></span><font size="-1"><b></b></font>RampantLion offers this story for your consideration:<br /> <br />Nine years ago at 249 South Main Street a 17 year old decided to strike out on his own.  Two years later he found himself 157 miles away from home with only $116 in his pocket.  He had no idea that this day, bus 227 would take him in a direction that would change his life forever. After paying the bus fare he found he only had 91 cents left in his pocket.  That was OK though, because he had a job interview at 2:16pm. Sixty five minutes later he was outside an 86 story building getting ready to take his life in a new direction.  In front of the building was a 197 foot tall sculpture titled &quot;Change&quot;.  Yes, today was a day of change, this was a good omen.  He found some pennies on the ground and picked them up.  He remembered the old saying &quot;Find a penny, pick it up, and all the day you'll have good luck&quot;.  Now he had 99 cents in his pocket.  He proceeded to the 86th floor of the building.  &quot;With so many good omens&quot;, he thought to himself, &quot;I am unstoppable!&quot;  The interview took 136 minutes, but he did get the job.  He was now employee 192 in a start up that was about to take off!<br /><br /><br />

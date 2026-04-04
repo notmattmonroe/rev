@@ -1,0 +1,7 @@
+Title: Unplug myself I want nothing right now
+Date: 2008-03-03 12:16
+Slug: unplug-myself-i-want-nothing-right-now
+Category: personal
+Status: published
+
+Over the years I've frequently seen articles/blog entries/etc on 'going offline' as though it's some sort of superhuman feat.  The <a href="http://www.nytimes.com/2008/03/02/fashion/02sabbath.html?_r=1&oref=slogin">NYT</a> is the latest in this occasional meme.  Correct me if I'm wrong, but I'm reasonably sure that more than 99% of all humans who have ever lived were offline 24/7.  It is, as it were, our 'natural state'.  <br /><br />It's not as though it requires any special effort to go offline.  Don't turn on the computer.  It requires effort to turn it on, not leave it off.  It takes more effort to respond to your Crackberry or answer your phone or turn on the TV than it does to not do those things.  <br /><br />I view these sorts of 'oh the horror of trying to mentally cope with not being online' with the same sort of disdain as people who write about 'oh I'm buying a new car and it's just SOOO hard to decide between the Beemer and the Audi and oh isn't my life so challenging.'  They are dishonest.  Those people aren't actually complaining, they're bragging.  Which I have no problem with.  But presenting their bragging as complaints because we as a society for some sick reason value suffering over pleasure is disingenuous   at best.

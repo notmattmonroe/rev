@@ -1,0 +1,7 @@
+Title: polyurethane people with their glass hearts
+Date: 2010-08-02 00:07
+Slug: polyurethane-people-their-glass-hearts
+Category: personal
+Status: published
+
+The combination of cooperative kids and cool weather resulted in me getting a LOT done today.  Two coats of polycryclic on everything (including proper sanding and cleaning between coats), so only one more to go.  <br/><br/><img src="/media/revmatt/polycrylic/IMG_0001.JPG" alt="drawers" width="400" height="299" /><br /><br /><img src="/media/revmatt/polycrylic/IMG_0002.JPG" alt="case" width="400" height="299" /><br /><br />I cut the back piece and the decorative base, routed it, stained it and have to poly it still.  It will stick out about 1/2" from the casement and the top of the curve should be flush with the doors when I build them.  <br/><br/><img src="/media/revmatt/polycrylic/IMG_0003.JPG" alt="base" width="400" height="435" /><br /><br />I never found drawer pulls I liked, so I'm making my own bar pulls, 3/8" square dowel cut to 3" long and then sand the bottom/back concave for fingers.  I think these will be stained reddish brown to stand out from the drawers.<br/><br/><img src="/media/revmatt/polycrylic/IMG_0004.JPG" alt="pull 1" width="400" height="461" /><br /><br /><img src="/media/revmatt/polycrylic/IMG_0005.JPG" alt="pull 2" width="400" height="461" /><br /><br />And I even nailed on the back<br/><br/><img src="/media/revmatt/polycrylic/IMG_0006.JPG" alt="with back" width="400" height="246" /><br /><br />

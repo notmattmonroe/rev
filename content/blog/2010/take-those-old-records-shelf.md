@@ -1,0 +1,7 @@
+Title: Take those old records off the shelf
+Date: 2010-12-28 17:48
+Slug: take-those-old-records-shelf
+Category: personal
+Status: published
+
+The demise of physical media, a key utopian dream of the technophiles.  It's still very early stages and will take a looooong time to be mainstream.  I've been a fairly early adopter in this field as I've been annoyed by physical media since the dawn of the CD.  Vinyl I still like.  With the streaming available via Netflix, Hulu, iTunes, and Amazon on demand we are making significant progress.  The percentage of titles available streaming is still miniscule enough that it's clearly a niche part of the business.  <br /><br />We picked up a couple of the Roku HD boxes with the USB port, largely because of the claim that they would support usb storage devices with a software update in Dec of 2010.  No such update has occurred yet, but nowhereman has released a private channel that offers support for this (<a href="http://forums.roku.com/viewtopic.php?f=28&t=29367#p182197">here</a>) and I can say it works marvelously.  I am now in the process of ripping our hundreds of DVDs with Handbrake on every available machine I can get my hands on so we don't have to use physical media in the house anymore.<br /><br />While I wish I didn't even have to store locally, the cloud simply doesn't offer the reliability of selection to be able to go to a complete streaming option.  Baby steps.

@@ -1,0 +1,13 @@
+Title: Holywood
+Date: 2001-10-12 15:17
+Slug: holywood
+Category: reviews
+Artist: Marilyn Manson
+Rating: 4
+ReviewType: music
+Template: review
+Status: published
+URL: reviews/holywood/
+Save_as: reviews/holywood/index.html
+
+Yet another pre-release. Due out Nov 17th, the new Marilyn Manson CD is titled "Holy Wood". Information about the album is available at the web site.I've always liked that Manson guy. Wacky, irreverent, and not afraid to poke fun at himself. Plus he's seriously disturbed. His last CD (Mechanical Animals) did OK but really didn't receive the recognition it deserved. There was definitely a real change in image/sound in order to express his influence by the early 70's glam-rock movement.Holy Wood is more in line with the AntiChrist era sound and look, which will likely please many fans who saw Mechanical as a sell-out (how is paying respects to your idols selling out?).<BR><BR>Kicks off with the Godeatgod, a dark plodding assault on the concept of god with a straightforward rock guitar thing going on. Next up is The Love Song which is a bit more aggressive, brings it up a notch, and lashes out at idiocy (always a good target!). Fight Song is next, and it's yet again a bit faster. Fight Song is a scathing indictment of a society that alienates those who choose to be indivduals rather than conform (I'm not a slave to a god that doesn't exist, I'm not a slave to a world that doesn't give a shit).Disposable Teens, the first single, is almost a remake of Beautiful People (same drums, very similar bass and guitar lines). Even the lyric line is almost identical. First time around I thought "Ugh, don't start repeating yourself!" but on closer listening I realized that it is a natural progression from Beautiful People. The content deals with the mindset of people like the Columbine Killers and disavows them.<BR><BR>The album slows down a bit with Target Audience, which claims all who are skeptics of the media as his people. President Dead comes in with the theory that the President is useless (not exactly a stretch to believe that) to the average person and that the average persons life sucks (this is for the people that punch in). In The Valley of the Shadow of Death (a line from the Bible, no less) is a soft, dirge-y, introspective bit about self doubt. Cruci-fiction in space is another more aggressive bit about societies ideas of evolution. A Place in the Dirt is another introspective piece of lament and exhaustion, which is musically disturbingly similar to Hotel California. The album closes out with The Nobodies, another paean to the outcasts and a really great track to boot.<BR><BR>Hot Spots: Godeatgod, The Fight Song, The Nobodies.

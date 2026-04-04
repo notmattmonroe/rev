@@ -1,0 +1,7 @@
+Title: Give it to me I throw it away
+Date: 2007-04-07 17:30
+Slug: give-it-me-i-throw-it-away
+Category: personal
+Status: published
+
+Post op report number one: 24 hours<br /><br />The procedure was quick. It was very hot in the room from all the lights.  I hopped up on the table, which is basically the same table that they use for OB/GYN visits.  The only pain was the shots (one for each side), I didn't feel the cutting or the cauterizing.  When I left my legs were a little sore from the muscles being tense the whole time (I'm the same way at the dentist, it's purely psychological).  I was slightly lightheaded and nauseous, but that could have been from hunger as much as anything as I'd had both a light breakfast and a light lunch.  <br /><br />The afternoon and evening of the operation I slept most of the time.  I got up for dinner and to watch Boo while Mae took her shower.  <br /><br />Pain?  Very little.  There's some tenderness of course, and there is an occasional sharp pain when I move too quickly or try to do something I shouldn't (or more precisely when my 3 year old tries to climb on me).  I took Motrin for the first 18 hours, but nothing since.  <br /><br />It's a bit surprising how much you use your groin muscles for without being aware of it.  It's almost harder to transition to sitting from standing than vice versa.  <br /><br />Athletic supporters feel very very strange if you aren't used to wearing them.<br />

@@ -1,0 +1,7 @@
+Title: No time, never got a thing to wear
+Date: 2008-02-04 15:33
+Slug: no-time-never-got-thing-wear
+Category: personal
+Status: published
+
+This chain of emails is only the latest in a long series of tedious exchanges about what code we report various activities under.  I probably personally spend about 8-9 hours per pay period messing with this nonsense.<br /><br />From: Gov Mgr Ann - St. Louis, MO <br />Sent: Monday, February 04, 2008 9:00 AM<br />To: PM Betty, MO; Branch Cheif Carol; Gov Mgr Dana, MO; Gov Mgr Fred St. Louis, MO; Gov Mgr Ginger- St. Louis, MO<br />Cc: Architect Harold<br />Subject: RE: Resource_EstHours_Weekly2008.xls<br /><br /><br />Is the RFA to get reports in to Cybermation supposed to be production support or Project reports?  I thought it was production support.  <br /><br />If it's production support, I believe Matt's time under Project reports should actually be production support.  <br /><br /><hr><br /><br />From: PM Betty - St. Louis, MO <br />Sent: Monday, February 04, 2008 9:24 AM<br />To: Rev Matt - St. Louis, MO<br />Subject: FW: Resource_EstHours_Weekly2008.xls<br /><br />Matt - is the time you reported under Project Reports work on the RFA Ann talks about below?  If so, it needs to be put under Production Support and the time adjusted in your EVM to reflect such.<br /><br /><hr><br /><br />From: Rev Matt - St. Louis, MO <br />Sent: Monday, February 04, 2008 9:25 AM<br />To: PM Betty<br />Subject: RE: Resource_EstHours_Weekly2008.xls<br /><br />Please kill me, kthxbai. 

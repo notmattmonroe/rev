@@ -1,0 +1,7 @@
+Title: What they do in Washington they just look out for number one
+Date: 2009-12-09 19:07
+Slug: what-they-do-washington-they-just-look-out-number-
+Category: personal
+Status: published
+
+And number one ain't you.  You ain't even number two.<br /><br />I've been seeing a ton of news stories the past few days emphasizing that in 2010 *ALL 435 HOUSE SEATS WILL BE UP FOR ELECTION*  and *A THIRD OF THE SENATE WILL BE AS WELL*.  This is presented as an unusual situation which may redound to the benefit of the Republican party. <br /><br />I realize that basic civic literacy is at an all time low in this country.  And I understand that most 'reporters' these days are simply underpaid hacks regurgitating whatever press releases get thrown at them, but even alleged political experts are placing this bizarre emphasis on the number of Congressional seats being up for election in 2010.  <br /><br />All House of Representatives seats are up for election every two years.  And have been for the past 221 years (222 by the time the 2010 elections occur).   The Senate is slightly less established, 1/3 of the Senate has been up for election every other year for a mere 95 year (96 by the time the 2010 elections occur).  So, yes, this unprecedented amount of seats that may be contested has ONLY HAPPENED 48 TIMES IN THE LAST 96 YEARS!!!!  <br /><br />Totally ignored is the number of seats that will be uncontested or only nominally contested.  The percentage of 'safe' seats in both houses is truly abhorrent and gives lie to the claim of representative democracy.

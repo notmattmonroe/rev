@@ -1,0 +1,7 @@
+Title: We love the winter, it brings us closer together
+Date: 2010-11-29 16:00
+Slug: we-love-winter-it-brings-us-closer-together
+Category: personal
+Status: published
+
+I grew up in Northern California, the Bay Area to be exact.  Where the weather was required by law to always be either sunny or slightly cloudy with the temperature range between 70 and 80.  I spent four years in Colorado and have been in the Midwest for a decade and have yet to really understand seasons fully.  <br /><br />Conceptually I divide seasons so that they map to the calendar year.  Seasons should not overlap years, that doesn't make sense.  A fallacy of latching onto the idea that these are systems that evolved from the same source and thus should share rules of logic.  Not the case.  Just as the school year doesn't map to the calendar year, and fiscal years don't map to calendar years, weather doesn't map to strict delineations either.<br /><br />So I'm thrown by the idea that it's nearly December, but it's not winter yet.  Winter doesn't even start until December.  That's just odd to me.  Add to that the fact that I'm still trying to cope with the idea of an actual winter and I'm a very very confused expat.  I will wear my sandals far beyond the point where it's sane or reasonable.  I still have a few pairs of shorts on hand in my closet because it wasn't particularly unusual to wear shorts and a tank top at Christmas when I was growing up.<br /><br />Neither original nor insightful, this is nonetheless what was on my mind this brisk morning.

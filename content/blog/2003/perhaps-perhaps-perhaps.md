@@ -1,0 +1,7 @@
+Title: Perhaps, perhaps, perhaps
+Date: 2003-11-03 16:04
+Slug: perhaps-perhaps-perhaps
+Category: personal
+Status: published
+
+NBC's "Coupling" has been<a href="http://www.cnn.com/2003/SHOWBIZ/TV/11/03/sprj.caf03.television.sweep.reut/index.html">cancelled</a>.It should've never aired, but at least they had the good sense to kill it after only running 4 episodes.  <p>The new baby furniture hasn't worked out as planned.  Halfway through putting together the dresser <a href="http://www.maemidwest.com">Mae</a> realized that the top was warped and the paint wasscrewed up along the front edge.  I will be calling the company for a replacement part today.  Idid route out a mortise and tenon for the top of entertainment/storage center I am making for the nursery and get it glued up and clamped.  Routing with a Dremel tool is more challenging than using a real router, as it's not as powerful and the bit is much smaller.  So it takes longer, but itworks still.  All that's left is to sand and brace a mid-shelf and put the backing on.  Then of course comes the facing which will be MUCH more difficult.  Oh, and MDF is a pain in the ass to work with.  I'll avoid it in the future.<p>There are few things more frustrating to a geek than the bizarre phenomenon whereby turning a perfectly working computer off and moving it to another room results in a dead hunk of metal.  It is at least consoling that all the geeks I know acknowledged having had similar experiences.                                           

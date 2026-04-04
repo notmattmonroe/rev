@@ -1,0 +1,7 @@
+Title: Overweight and out of date
+Date: 2008-10-02 18:39
+Slug: overweight-and-out-date
+Category: personal
+Status: published
+
+Over the years I've accumulated, purged, reorganized, reaccumulated, repurged, and et cetera ad nauseum more browser bookmarks than I can possibly remember.  As I was trying to clean up my tech bookmark tree (coding related items, django, python, design patterns, compsci theory, design resources, etc) I realized there were a whole lot of things I'd bookmarked even though it was unlikely I'd ever use those bookmarks again.  Within a few weeks of bookmarking them they'd become outdated.  <p />If I have a sudden interest in <a href="http://www.shorpy.com/">old photos</a> or <a href="http://www.pickyourown.org/">local food resources</a> or <a href="http://www.nslu2-linux.org/wiki/Unslung/HomePage">tweaking our file server</a> I'm much more likely to hit the Google before scanning my bookmarks for something relevant.  Even when Google points me to the same site as is in my bookmarks, it is likely that it will point me to the most current related item on that site rather than the <a href="http://www.onlamp.com/pub/a/bsd/2007/01/18/greylisting-with-pf.html">two year old article</a> that hasn't had a link to newer content added.<p />So are bookmarks dead?  I mean, there is a handful of sites that I'll consistently want to go to the main page and work from there (bank, health insurance company, etc) but any sites I want to check regularly I've got them on rss.

@@ -1,0 +1,7 @@
+Title: Tell me lies
+Date: 2003-03-28 11:56
+Slug: tell-me-lies
+Category: personal
+Status: published
+
+Mae pointed me to <a href="http://www.adage.com/news.cms?newsId=37446">this</a> interesting piece about the Tivo stats from the Oscars.  While the dataset is not broad enough to come to any motivational conclusions, it is certainly interesting that the much maligned statement by Moore was one of the most replayed segments.  Most mainstream news sources that I saw reported that he'd been booed from the second he walked on stage (though at least some of them later edited their reports to reflect the reality that there was no booing until he started speaking about the war and even then the response was fairly evenly split between negative and positive).  I watched it, so I knew the "liberal" media was lying in order to make Moore look bad.  <br /><br />I've seen more and more posts recently about the "liberal" media.  I can't take seriously anyone who considers mainstream media to be liberal.  Someone yesterday referred to "CNN (hardcore liberal)".  Obviously this person is not capable of being honest (or they are so far to the right that CNN seems liberal, which is more frightening as even Pat Robertson considers CNN to be moderate).  There are mainstream media outlets that are moderate with liberal positions on some issues and conservative ones on others.  There are no mainstream media outlets that are flat out liberal.  

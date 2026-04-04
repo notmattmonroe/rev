@@ -1,0 +1,7 @@
+Title: I'll help you count your scars tomorrow
+Date: 2003-09-02 14:54
+Slug: ill-help-you-count-your-scars-tomorrow
+Category: personal
+Status: published
+
+I've had better days.  Or at least drier ones.<p>The weekend was very productive.  Started out by ripping out the old counters, which was fun(no really, it was) and discovering that when it was remodeled back in the 70's they just dumpedthe construction debris behind the counter, so I got to clean that up.  And two dead mice who were in a very advanced stage of decomposition, so I'm guessing they were a few years gone.  Therest of the weekend involved cutting countertops, installing countertops, installing a sink, helping <A href="http://www.livejournal.com/users/dock_slop">Jack</a> unload his truck in the rain, several trips to Lowe's, not enough sleep, and a tremendous amount of soreness.<p>The drought has ended here in STL.  I wisely didn't check weather before coming to work.  A polo shirt and dockers are insufficient protection against a monsoon, in case you were wondering.There's an incline leading from the Metro station up to the street (about a 40 yard walkway, probably a 5% grade).  Down that incline a rushing torrent came.  2 inches deep at best, around the planters up to 4 inches around the planterboxes.  I was thinking of getting new shoes anyway.  Fortunately, the AC is on today, so hypothermia should be setting in fairly quickly.       

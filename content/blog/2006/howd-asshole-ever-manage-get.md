@@ -1,0 +1,7 @@
+Title: How'd that asshole ever manage to get in
+Date: 2006-11-07 20:00
+Slug: howd-asshole-ever-manage-get
+Category: personal
+Status: published
+
+Playlist for election day:<br /><br />If You Tolerate This Then Your Children Will Be Next - Manic Street Preachers<br />Big Black Cadillac - Adrian Belew<br />Politician - Swingin Utters<br />Election Day - Duran Duran<br />Rule the World with Love - Barenaked Ladies<br />Career Opportunities - The Clash<br />When the Lie's So Big - Frank Zappa<br />Cult of Personality - Living Colour<br />Hell No We Ain't Alright - Public Enemy<br />Televsion:Drug of the Nation - Disposable Heroes of Hiphoprisy<br />Another Bloddy Election  - Killing Joke<br />The Kids Aren't Alright - The Offspring<br />Mind the GATT - Anti Flag<br />Killing in the Name Of - Rage Against the Machine<br />California Uber Alles - Dead Kennedys<br />Who Cares Wins - Anthrax<br />America Number One - Consolidated<br />Fitter Happier - Radiohead<br />Day After Tomorrow - Tom Waits<br />The Love of Richard Nixon - Manic Street Preachers<br />Volvo Driving Soccer Mom - Everclear<br />American Idiot - Green Day<br />Unity of Oppresion - Consolidated<br />No God - The Germs<br />The Preacher and the Slave - Joe Hill<br />Dear Mr. Man - Prince<br />Jesus Thinks You're a Jerk - Frank Zappa<br />Bomb the World - Michael Franti<br />Silent All These Years - Tori Amos<br />Solitude Sometimes Is - Manic Street Preachers<br /><br />

@@ -1,0 +1,7 @@
+Title: Some people will surprise you with a real depth of feeling
+Date: 2003-06-08 04:05
+Slug: some-people-will-surprise-you-real-depth-feeling
+Category: personal
+Status: published
+
+We made the trek out to Chesterfield to help for a post wedding reception (the wedding was in New Orleans a few months back, the reception was for people who couldn't be there).  Harvey somehow managed to get Laura to think getting married to him was a good idea ;)<p>Mae finally got to meet a few co-workers (and former co-workers) and put a face to all the insane stories I tell her.  They all verified that I told the truth, which she probably found even more disturbing.  Jesus H and Queen Bitch were there, so I got to break the sad (to them) news that we in fact were not having septuplets (or fifteenuplets, as Renee was hoping).  And of course, meeting the assorted spouses/kids/etc and the HR woman I've been hassling so mercilessly for so long.  Excellent food (Bandana's), great company, and a wonderful time.  It would've been nice if it had been longer, but it was a lot of fun regardless.  And now I've gotten Keith to invite us down to his place for BBQ ;)<p>And what would a weekend be without a trip to Lowe's?  The toilet tank level in Mae's bathroom gave out, and judging by the looks of it, about 5 years later than I would've expected.  So one more thing on the honey do list for tomorrow.  Good night, moon.

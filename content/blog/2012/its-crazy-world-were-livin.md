@@ -1,0 +1,7 @@
+Title: It's a crazy world we're livin' in
+Date: 2012-01-18 17:23
+Slug: its-crazy-world-were-livin
+Category: personal
+Status: published
+
+So I've been wrestling with VPN problems since before Christmas.  Also before Xmas I explained to everyone involved (LAN Support, prime contractor POC, government POC, my manager, etc) that what was wrong was that there were two versions of the VPN software installed and the host checker app was using the wrong one.  I helpfully suggested that maybe removing the 3 year old version of the software may solve the problem.  Or reconfiguring the host checker.  As I don't have admin rights to my machine I was unable to do anything about it.<P />Weeks of 'try this' or 'use this URL instead' etc ended up with them deciding to replace my <a href="http://rc.fas.harvard.edu/faq/fob_exchange">hardware FOB</a> with an iPhone app that does the same thing.  What this means is that instead of getting a random code from one device totally isolated from the computer I get one from a different device totally isolated from the computer.  Which in no way addresses the fact that the VPN software is failing to negotiate a connection.  <p />I finally managed to convince the powers that be that I can be trusted to have admin rights on my machine for no more than 30 minutes. Uninstall both versions, reboot, run the installer for the current version, ta-da.  VPN now works.  Only took 4 weeks.  Amazing.

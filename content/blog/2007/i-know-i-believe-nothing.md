@@ -1,0 +1,7 @@
+Title: I know I believe in nothing
+Date: 2007-05-21 13:25
+Slug: i-know-i-believe-nothing
+Category: personal
+Status: published
+
+<br />I posted this comment over at <a href="http://www.hanlonsrazor.org/">Hanlon's razor</a>, but I thought it worth reposting here.  I think he makes excellent points, all of which I grapple with regularly.<br /><br /><br />I have been going back and forth between identifying as an atheist and an agnostic as years.  The hang up for me has been that damned dictionary.  I linguistic purist (which I sometimes lean towards) would say that you are only an atheist if you declare that there 100% is no god.  And some of the more outspoken atheists promote precisely that perspective.<br /><br />However, language is a fluid thing.  A lot of people who identify as atheist are 'soft' atheists who are sure that there is no god, but aren't so presumptuous as to claim 100% surety.  This is a position I've alway  associated with agnosticism, and that's why I've normally chosen to identify as agnostic.  <br /><br />A more basic issue is that the average non-skeptic just gives a blank stare when they encounter the phrase &quot;I'm agnostic&quot;.  They seem to have no idea what that means.  Those who are a bit more committed to their religious beliefs and in trying to win converts do tend to see it  the way you put it and think it's an opening for them to brainwash someone who has some doubts.<br /><br />I don't have a good answer, but I've got lots of great questions!<br />

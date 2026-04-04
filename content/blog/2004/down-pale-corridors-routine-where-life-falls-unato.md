@@ -1,0 +1,7 @@
+Title: Down pale corridors of routine, where life falls unatoned
+Date: 2004-04-25 23:53
+Slug: down-pale-corridors-routine-where-life-falls-unato
+Category: personal
+Status: published
+
+I've gotten far more done this weekend than I had expected, and yet still feel no sense of accomplishment.  Probably because all I accomplished has been steps and not full projects.  I've framed up the surround for the hearth, and really there's not much left to do but bang on a facing and top and make the edges pretty. <br /><br /> I've also gotten a working but still alpha stage port of PABlog for Plone (and I've written in my mind the port to vanilla Zope).  For another project I'm delving back into core Zope and working without a net on some content management issues for a fairly large site.  It's fun stepping out of the Plone/CMF &quot;all the tools are there but are horrendously convoluted&quot; and back to a clean and simple framework, even if it means I have to build the tools myself.  I think I may pull punitiveart back to vanilla Zope once life calms down a bit.<br /><br />This will be a fun fun week.  Off to the other office for  8am-5pm meetings all week in the hopes that by throwing people at the problem we can finalize the several hundred use cases that have been languishing in bureacratic hell for months (or years in some cases).  Mythical Man Month.  It should be very very very fun.  I can't wait.    <br />

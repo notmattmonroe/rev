@@ -1,0 +1,7 @@
+Title: Set me free from your disease
+Date: 2003-08-21 13:58
+Slug: set-me-free-your-disease
+Category: personal
+Status: published
+
+Music industry stalwart <a href="http://www.ernieball.com/">Ernie Ball</a> has gone<a href="http://news.com.com/2008-1082_3-5065859.html"> all linux</a>.  This is not some small timelocal shop.  Ernie Ball's client list reads like a who's who of the music world.  This is anincredibly important article if you are involved in IT at all.  Here is a decidedly non-technical person, the head of a decidedly non-technical company that went 100% linux.  He makes a lot of great points about the realities of switching, that the "you can't get support for linux" lineis complete garbage because they haven't needed any help.  The TCO is much lower, the transitioncost is far lower than Gartner et al claim, and productivity has risen dramatically since theyswitched.  His argument is that linux wins from a *business* perspective, not a technical perspective.<p>Three more <a href="http://www.theregister.co.uk/content/55/32451.html">Microsoft holes</a>patched today.  Two critical, one minor.  Security guru Richard Forno notes: <a href="http://infowarrior.org/articles/2003-01.html">Forget California, its' time to recall Microsoft</a>.  After all the hassles I've seen people going through to deal with the daily virus warning, I just don't understand why anyone would use Windows.<p>On another recall note, <a href="http://www.bushrecall.org/petition/">recall Bush</a>.               

@@ -1,0 +1,7 @@
+Title: You can download it to your iPod from my Box Set
+Date: 2008-01-14 02:39
+Slug: you-can-download-it-your-ipod-my-box-set
+Category: personal
+Status: published
+
+At the prompting of my very good friend Chuck, I finally got around to trying out the Amazon MP3 Music Store.  I've tried all of the online music stores (that work with Mac) as they've come and gone, and while none of them have been truly awful they also haven't compared to the ease of use of the iTunes Music Store.  iTunes of course has the advantage of the store interface being the same as the media player interface.  <p />The initial setup was a little screwy.  Start download, enter billing info in a seperate window, finish download.  The instructions however were very simple and it installed flawlessly.    The selection is mixed relative to iTMS.  There's a lot that I couldn't find on Amazon that I could on Apple, and vice versa.  Of course with my tastes being what they are there was a lot I couldn't find on either.<p />Really the only quibbles I have are <ul><li> that if you buy a single song you have to manually add it to your media player<li> if you buy an album it only inserts a soft link to the tracks in iTunes rather than physically copying them in.  Which may be a problem depending on how you have your backups configured (e.g. you may think you're backing the music up when you are not).</ul>Overall I'd give the Amazon MP3 store an 8 out of 10 (due to selection).  And I'd give the same to iTunes Music Store.

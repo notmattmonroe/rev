@@ -1,0 +1,7 @@
+Title:  I'm just an average man with an average life
+Date: 2010-04-01 14:45
+Slug: im-just-average-man-average-life
+Category: personal
+Status: published
+
+Back in high school and college I worked at Great America in the Bay Area (for those unfamiliar, it's theme park of the Six Flags variety).  I worked in the shows department as a theater tech and enjoyed my time there quite a bit.  <br /><br />Because of the highly transient nature of the employee population and the high percentage of young/foolish employees internal security was omnipresent.  I think they spent as much effort policing the employees as they did the guests.  One key area I always found amusing was the priorities dictated by management and the risk of having security unfamiliar with the possible targets they were protecting.  <br /><br />On leaving the park each day employees were subject to a security search of their bags, and they were diligent about any possible park property that might be present and required receipts for everything.  No one could sneak out of there with a stuffed animal with a wholesale value of $1.50.  Theater techs however routinely walked in and out with hundreds and sometimes thousands of dollars worth of tools and equipment.  Musicians strolled in and out with guitars and amps and bags full of pedals et al.  <br /><br />From discussions with employees of other theme parks it does not appear this is terribly uncommon.  A little education and a simple policy directive could easily address a fairly large and potentially very costly security hole.

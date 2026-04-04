@@ -1,0 +1,7 @@
+Title: Mommy always said to me
+Date: 2004-03-16 12:24
+Slug: mommy-always-said-me
+Category: personal
+Status: published
+
+Mom was in town for the weekend, and so she finally got to meet Narnia.  With 6 kids and 30+ years teaching montessori school, Mom is a natural.  And it was very reassuring to hear that from her experience everything Narnia is doing is completely normal for her age.  <br /><br /><img src="http://punitiveart.com/np/forPA/DCP_3017.jpg" /><br /><br />Mom and I went to <a href="http://www.mohistory.org/content/Restaurant/Restaurant.aspx">Meriwether's</a> for brunch on Sunday (I highly recommend it, it's delicious) and talked at great length about everything under the sun.  <br /><br />As an Angry Young Man (tm) in my teens I had this idea that my parents were ultra conservative authoritarians and so I was busy rebelling against whatever you've got.  To be fair, my basis for comparison was my best friend Brian's truly hippie parents.  Compared to them everyone is conservative.  Now that I'm older and more mature (not mature, just more mature) I've come to realize that  my attitudes and opinions are very directly informed by those of my parents.  And I have many of the same behavioral patterns and problem resolution strategies as well.  My parents raised me very well, and more and more I realize how important and valuable their influence has been.<br /><br />Of course I now have to wonder how did ANYONE (my family in particular) put up with me in high school?  I was an idiot!    <br /><br />

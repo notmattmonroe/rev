@@ -1,0 +1,7 @@
+Title: Tell me that everything will be alright
+Date: 2012-07-19 15:12
+Slug: tell-me-everything-will-be-alright
+Category: personal
+Status: published
+
+Why all the projects that are basically "A tool that sets up a new project in system X for you"?  I've even seen enterprise tools that are touting their ability to automate setup of these things.  <p />Because setting up a new project is the most time consuming part of developing software?  How often do you have to set up a new production environment?  If your developers know so little about the stack they're working on that they can't get a new workspace up and running on their own* then you've got bigger problems.<p />Even if you're a stickler for wrapping everything in a virtualenv or some such the 15 minutes it takes to set everything up seems a small price to pay versus the cost of installing yet another software package and being subject to its' bugs and security holes.<p />I've done every mainstream web stack there is aside from .Net (and I did plenty of ASP pre .Net) and a number of non mainstream ones.  None of them are particularly onerous to get up and running and that includes creating DB schema and connecting to it from the dev environment.  Java, PHP, Cold Fusion, Python, Django, Zope/Plone, Drupal, Joomla, WordPress, phpNuke, OpenCMS, etc etc.  It's not that tedious to get up and running.<p />*I will caveat this with the observation that environments where developers on Windows machines do not have admin rights to their machines are a whole different beast.

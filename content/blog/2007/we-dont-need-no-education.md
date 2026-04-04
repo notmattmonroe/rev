@@ -1,0 +1,7 @@
+Title: We don't need no education
+Date: 2007-03-22 20:05
+Slug: we-dont-need-no-education
+Category: personal
+Status: published
+
+So Mayor Slay got his way.  He's one step closer to his goal of driving the middle class out of the city.  The city schools have lost their accreditation.  Which means for the next six years (at least) all the kids who graduate from the city schools will be unable to get into college.  Whoohoo!  Victory for... well, Slay.  <br /><br />And his good buddy Rick Sullivan, of McBride and Son construction, who has no education background is going to be in charge.  At least now McBride will get all those city school building contracts they've been trying to get.  I'm sure there will be no favoritism there.  He also doesn't live in the city, so he really has zero incentive to make the schools perform any better, as long as his company gets the contracts for fixing the buildings.   <br /><br />This is incredibly frustrating, because in the years I've been following the city schools it seems that the only people who actually care about the students are the people who keep getting shut out.  Slay couldn't get the school board to rubber stamp everything he wanted, so he made sure the state would sideline them and put his hand picked team in.  I might not have a problem with Slay had ever showed the slightest bit of interest in the best interest of the students.  The only thing he appears interested in is power, and presumably the sweetheart deals he can give all his pals as a result of that power.  <br /><br />Disgusting.  <br />

@@ -1,0 +1,7 @@
+Title: Your most valuable posession
+Date: 2003-03-18 14:00
+Slug: your-most-valuable-posession
+Category: personal
+Status: published
+
+The <a href="http://www.internalmemos.com/memos/memodetails.php?memo_id=1409">funniest email ever sent</a>.  Seriously.<p>Morning people suck.  One of them was actually badgering me yesterday to come in at 6:30 for a meeting today!  Why?  Because he gets in at 6 and really has nothing to do until everyone else gets in so he always tries to get people to come in early for meetings.  I finally agreed to come in at 7.30 for a completely pointless meeting that didn't even really address what he said he wanted to talk about.  Never again.  You want a pointless meeting, it has to be during core business hours.<p>I've been thinking about our current political situation and I'm now wondering is this whole Iraq showdown actually a ruse?  Walter Cronkite was in Kansas City talking about the possible effects of the war.  He noted that there is a very real chance that it could lead to the demise of the UN, which so many fought and died for in WWII.  Is the real purpose not to get Saddam out of power but rather to force the end of the UN?  That has been a very public goal of many of the Administration officials and a longtime dream of extreme conservatives.  <p>Should make for an interesting talk tonight: <a href="http://www.alternativetentacles.com/jello.php?sd=CO1iDWQaQvb7Krtj4N0">Jello</a> @ the Galaxy on Washington.  Be there.  

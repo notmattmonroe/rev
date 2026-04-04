@@ -1,0 +1,7 @@
+Title: I see an old friend when I look into your eyes
+Date: 2007-02-05 18:20
+Slug: i-see-old-friend-when-i-look-your-eyes
+Category: personal
+Status: published
+
+Advantage of overnight feedings is finding new shows to watch:  <a href="http://animal.discovery.com/fansites/ms-adventure/ms-adventure.html">Ms Adventure</a>, <a href="http://animal.discovery.com/fansites/upclose/upclose.html">Up Close and Dangerous</a>, and <a href="http://www.bbcamerica.com/content/124/about.jsp">The kumars at Number 42</a>.  I'm disappointed in the tendency of National Geographic and various Discovery channels to run 'totally speculative historical reenactments' during the late night hours.  I had hoped that sort of fact free nonsense was mostly relegated to the history channel.  Animal Planet is mostly reliable, though I can't take the Animal ER shows.    BBCAmerica usually has something worthwhile on.  <br /><br />I was really surprised at Comedy Central.  I got through the nights with Boo almost entirely with the help of CC and National Geographic.  Now other than Daily Show, Colbert Report, and South Park there is nothing on CC that I find at all funny.  No new Reno 911.  No more Insomniac.  I don't find Mencia or Drawn Together or Naked Trucker to be at all entertaining.  Most of the stand up they have is 'redneck standup' which I also dont' find at all funny.<br /><br />Often I just watch DVDs on my laptop in the office while doing feedings.  I considered trying to work on code, but both hands are occupied with feeding at this point.<br />

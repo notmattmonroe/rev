@@ -1,0 +1,7 @@
+Title: It's as happy as a desk could be
+Date: 2009-11-30 17:03
+Slug: its-happy-desk-could-be
+Category: personal
+Status: published
+
+Started working on this bright and early Sunday morning.  In spite of neglecting to charge the batteries for my tools I managed to: <ul><li>cut all four pieces (from top grade plywood)<li>route the user-facing edges<li>dado for joining the pieces<li>drill cable holes<li>sand<li>dry fit and glue up</ul>At one point Boo came into the garage and I said "This is your new desk!" to which she dismissively said "No it's not.  It's just a bunch of wood.  It's not put together or anything."  A couple of coats of stain and it will be in place.<br /><br /><img src="/media/revmatt/plywood.jpg" alt="sheet of plywood with tools on top" /><br /><br />I have come to the conclusion that plug in tools are the way to go for almost everything.  A single cordless drill and circular saw are useful for basic home maintenance.  To do any project of notable size relying on batteries is guaranteed to screw you often.  So now I'm looking for some good plug-in tools.<br /><br />With two new 18v batteries (less than 6 months old, always stored properly inside the house, used perhaps 2 hours/week at most).  I was only able to get through cutting four panels from a sheet of 3/4" cabinet grade plywood and halfway through cutting four more panels from a sheet of 3/4" average grade plywood.  Fortunately I didn't have to do any jigsaw work, as that really seems to suck down the juice.  

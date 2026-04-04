@@ -1,0 +1,7 @@
+Title: Dreamin' 'bout my bundle of joy
+Date: 2008-08-27 16:31
+Slug: dreamin-bout-my-bundle-joy
+Category: personal
+Status: published
+
+I have been at times accused of being excessively literal.  A shock, I know.  My wife complains about it, my friends joke about it, my eldest daughter emulates it to often entertaining and other times painful result.  It's not that I'm incapable of understanding nuance or comprehending a metaphor or figure of speech.  It's just that I like to err on the side of caution and going with the most literal reading of a request or directive is the most defensible position.  Context of course has it's place in this and I don't gravitate towards contextually illogical interpretations unless it would be more entertaining to do so.  While I am fervently a rationalist, a good laugh is almost always a worthy endeavor.<br /><br />Let me give you an example of just what I mean by excessively literal.  I daydream.  There is nothing unusual about this in and of itself.  But if I'm daydreaming about, say, a new table saw then my daydream stalls unless I know the maximum ripping capacity of the saw in question and what accessories are readily available.  If I'm daydreaming about a particular home media solution I stall until I can check what the available interfaces and supported software are for that solution.  <br /><br />And yes, my daydreams generally revolve around building furniture or setting up a home media server.  You are not surprised by that.

@@ -1,0 +1,13 @@
+Title: Lifeblood
+Date: 2004-11-22 17:07
+Slug: lifeblood
+Category: reviews
+Artist: Manic Street Preachers
+Rating: 5
+ReviewType: music
+Template: review
+Status: published
+URL: reviews/lifeblood/
+Save_as: reviews/lifeblood/index.html
+
+I've heard it called elegaic pop, but it's more fitting to call it elegaic rock. This is more in keeping with the "This Is My Truth Tell Me Yours"/"Everything Must Go" style than with "Know Your Enemy". KYE seemed to have been a reaction to critics saying they'd lost their edge. While it had some very strong songs, it lacked aural cohesion. Lifeblood picks up from some of the KYE b-sides like "Unstoppable Salvation" and "Automatik Teknicolor" and expands the taste of mature and thoughtful songwriting that those presented. They've become much less strident and more thoughtful over the years, gone are the incisive critiques of the complicity of British banks in the devastation of the third world and the decline of social services in the UK.Heavy on questions and lacking the easy answers of gormless youth, the songs are a pastiche of nostalgia, hope, despair, and anti social isolationism.<BR><BR>The second single, Empty Souls, sports the plaintive wail "Exposed to a truth we don't know/Collapsing like the twin towers/Falling down like April showers/Colossal endless like a marathon/God knows what makes a comparison" over a galloping rhythm section and lightly rising melody that understate the lyrics. A Song for Departure risks sounding too much like the abhorrent "Final Countdown" but manages to save itself with it's sparse verses and resignedly encouraging chorus.In what is probably the least oblique reference to Richey thus far, I Live to Fall Asleep is a conversation between the recluse and his friend. "I live to fall asleep/It when I stop the hate/I never want to dream/It infiltrates beauty" leads us to "When did you become another distant friend/Everyone who loved you stayed waited till the end". Nicky espouses again his greatest love with "Solitude sometimes is/A place where I would like to live/Solitude sometimes is/Where nothing really seems to fit/If black were truly black not grey/It might provide some depth to pray/To black out all the words of man".<BR><BR>Lifeblood melds the musical maturity of This Is My Truth with lyrical content that bears more emotional resemblance to the horror circus that was Holy Bible than anything else. Synths take center stage in the melodies, and the guitar tone is more muted and Cure-like. This is arguably their best album since Holy Bible.<BR><BR>Hot spots: Solitude Sometimes Is, I Live to Fall Asleep, Glasnost, Empty Souls, A Song for Departure 

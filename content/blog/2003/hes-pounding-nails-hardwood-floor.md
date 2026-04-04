@@ -1,0 +1,7 @@
+Title: He's pounding nails into a hardwood floor
+Date: 2003-11-23 20:45
+Slug: hes-pounding-nails-hardwood-floor
+Category: personal
+Status: published
+
+I frequent several different Home Depot and Lowe's locations in the city and in the county.Over the past year I've noticed one interesting (to me) commonality amongst the Home Depot locations.<ul><li>Generally at least one of the four "self checkout" units is out of order.  Of the ones that are working, they are noticably slower than the ones at Lowe's (or Schnucks or Dierbergs, the other places where I regularly do self checkout).<li>Without fail, the self checkout machine will freeze on at least one item saying "wait for assistance". Several times this has happened before I've started scanning items.<li>More often than not, when I hit pay now, the machine will suddenly say either "unexpected itemin bagging area" or "item has been removed from bagging area"  Needless to say, nothing has beenadded to or removed from the bagging area and the clerk has to clear the error.</ul>Why is it that the ones at Home Depot error at a noticably higher rate than other places? Dierbergs and Schnucks most certainly get far more usage (and abusage) than Home Depot.And Lowe's is a similar environment, so it can't be sawdust or anything of that nature.I don't know what OS the Dierbergs or Schnucks or Lowe's machines use, but I know the Home Depotones run Vuepoint on Windows (I've seen them being worked on often enough).  

@@ -1,0 +1,7 @@
+Title: Everyone dance together now, a little further to the right, now extreme right.
+Date: 2003-06-12 19:44
+Slug: everyone-dance-together-now-little-further-right-n
+Category: personal
+Status: published
+
+Rumour has it that Dennis Miller is officially coming out of the closet.  Yes, Miller will now be a regular on the Fox News channel.  He has been favoring the hard right for some time now, but he's finally formally aligning himself with reactionaries and fascists.  I wonder if the logic is the same as it was for David Horowitz?  Early on in his career as far right commentator, Horowitz was pretty open about the fact that the right wing papers paid better so he'd be a right winger in order to make more money.  I wonder if he still admits that?<p>One of the favorite targets of the fascists is of course the working class.  Republicans are  up in arms about giving a $400 tax credit to families that don't earn enough to pay income tax.  Um, no, but they do pay PAYROLL tax.  Which is generally about 8% of their paycheck.  The refund gives them back a little over half what they pay in payroll taxes.  Funny, I don't hear them complaining about giving tax credits to wealthy individuals who get all their income from interest and investments rather than working.<p>Two of my coworkers are discussing an error on one of the servers, and only half listening I thought Barnacle called it a "codeine problem".  I'm trying to figure out it would be a lack of or an excess of codeine that would cause the problem...

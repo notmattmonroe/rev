@@ -1,0 +1,7 @@
+Title: Doctor doctor, mister MD
+Date: 2009-09-24 16:13
+Slug: doctor-doctor-mister-md
+Category: personal
+Status: published
+
+So there's some concern about the upcoming flu season and in particular H1N1 (please don't call it swine flu, as it's not).  <ul><li>Steinn SigurÃ°sson PhD (Astrophysics) on <a href="http://scienceblogs.com/catdynamics/2009/09/fast_foamy_and_furious.php?utm_source=combinedfeed&utm_medium=rss">H1N1 on campus</a>.</li>  <li>Orac (surgical oncology), inimitable as usual on <a href="http://scienceblogs.com/insolence/2009/09/the_price_of_anti-vaccine_fanaticism_par_1.php?utm_source=combinedfeed&utm_medium=rss">Anti-Vax fanaticism</a></li><li>Dr. David Gorski, MD (surgical oncology) on why you should <a href="http://www.sciencebasedmedicine.org/?p=1584">still get a seasonal flu vaccine</a></li><li>Dr. Tara C. Smith (assistant professor of epidemiology) on <a href="http://scienceblogs.com/aetiology/2009/09/why_ill_be_getting_my_kids_vac.php">Why I'll be getting my kids vaccinated</a></li><li>Dr. Mark Crislip, MD (infectious disease specialist) on <a href="http://www.sciencebasedmedicine.org/?p=1455">Flu Woo</a></li><li>Dr. Peter Lipson, MD (internist and teaching physician) on <a href="http://scienceblogs.com/whitecoatunderground/2009/08/gearing_up_for_the_flu_seasons.php?utm_source=sbhomepage&utm_medium=link&utm_content=channellink">Gearing up for flu season</a>.</li></ul>

@@ -1,0 +1,7 @@
+Title: If voting changed anything, they'd make it illegal
+Date: 2003-04-08 16:20
+Slug: make-it-illegal
+Category: personal
+Status: published
+
+Grabbed my little voter card and headed out the door, straight up the street to the polling place.    As I walked up the pathway, operatives with flyers accosted me.  The Dem said "so and so would really appreciate your support", and the Rep jumped in and said "so and so2 would also".  I'm reasonably sure I can't vote for both of them.  <p>They seem to have redrawn the district boundaries since Nov.  I didn't exist in any of their voter rolls.  Hmmm.  Odd.  I conveniently had left the voter card in the car, so I went back out to double check it.  My new polling place is a different address on the same street.  Wonderful.  So I headed to the elementary school as indicated by the card.  Some of those kids are almost as tall as I am (granted, it's not as though I were extraordinarily tall, but these are still 6th graders that are almost as tall as I).  <p>As noted above, I couldn't vote for both the Dem and the Rep, and I wasn't given any other choices for several of the offices.  I held my nose and voted for the arguably lesser of two evils each time.   I voted in favor of the schools and the purchasing amount limit, both of which seem eminently reasonable to me.  We shall see.<p>Addendum: several coworkers have noted that since I live in the city I probably could vote for both, or for one of them more than once.  Even by my standards this is overly cynical.  Not that it's necessarily false.

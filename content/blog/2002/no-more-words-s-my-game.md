@@ -1,0 +1,7 @@
+Title: No more words, that's my game
+Date: 2002-12-17 17:40
+Slug: no-more-words-s-my-game
+Category: personal
+Status: published
+
+I shouldn't be surprised.  I really shouldn't.  Our customer, and if you are a US citizen our customer is funded by your tax dollars, is not the most technologically adept of entities.  Our latest problem is yet another terminology issue.  We are trying to validate requirements.  Part of this process involves walking through sample screens and workflow diagrams with the customer.  This is causing a problem on several levels, but the one I'm most entertained by is the terminology level.  We can't use the word *storyboard* because they don't understand it.  Yes, I know it's a fairly standard term.  Yes, I know that most junior high school students have at least a vague idea of what a storyboard is (or can deduce from context).  Storyboard is confusing.  OK.  We also can't call it a prototype.  To them, a prototype is a fully functional 1.0 release.  OK, not really what I would normally consider to be a prototype, but you're paying the bills (well, actually, I am indirectly but whatever).  I suggested workflow, since that's the major portion of it, but it hasn't taken hold.  Ultimately, I think we should make up a new word for "a demonstration of the proposed user interface and workflow of a website, presented in a non-interactive non-functional format in order to validate the requirements for the project". Might I suggest "Fozzle"?

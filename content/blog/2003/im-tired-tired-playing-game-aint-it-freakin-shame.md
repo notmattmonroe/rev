@@ -1,0 +1,7 @@
+Title: I'm tired, tired of playing the game. Ain't it a freakin' shame.
+Date: 2003-07-01 20:41
+Slug: im-tired-tired-playing-game-aint-it-freakin-shame
+Category: personal
+Status: published
+
+[geekspeak]<br>I'm really tired of the looks I get when I explain our server configuration to people.  It's not my fault!  This "architecture" was foisted upon me!  I plead innocence!  I *know* it's not really failover.  Stop laughing at me!<p>So the httpd is on box one, and the WebSphere Application Server (WAS)* is on box one and two.  Round robin prefer local.  But the thing is, if box one dies, so does the httpd. So, sure, box two is up and running and working fine, but NO ONE CAN GET TO IT.  The webfarm offered to handle load balancing for us at the router, but NOOOOOOO.  <p>And while I'm at it, the idea of "I don't want to ask the client to clarify situation X because I don't want to know" is absurd at best.  What you're basically saying is you'd rather be blissfully ignorant of reality and allow the developers to spend months developing an architecture that is fundamentally WRONG.  Negligent, lazy, inept, call it what you want, but to me it's simply unprofessional.  Of course, if you just model it as many to many then it really doesn't matter if it ends up being one to many, now does it?<p>*that should really be WSAS, technically, but that's IBM's marketing department for you.[/geekspeak]
